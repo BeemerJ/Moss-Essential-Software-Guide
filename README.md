@@ -5,24 +5,42 @@
 # Index:
 ---
 ### 1) Hardware Diagnostics/Monitoring
+
 > test
 ----
 ### 2) Browser (Addon)
+
 > test
 ---
 ### 3) Windows (Interface) Modification
+
 > test
 ---
 ### 4) Desktop Capturing
+
 > test
 ---
 ### 5) Media Players (et al.)
+
 > test
 --- 
 ### 6) Downloader / Tool
+
 > test
 ---
 ### 7) Security
+
 > test
 ---
 ### 8) Editing / Creative
+
+> test
+---
+### 9) Gaming Companion
+
+> test
+---
+### 10) Miscelanneous
+
+> test
+---
