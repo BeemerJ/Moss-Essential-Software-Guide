@@ -7,10 +7,10 @@
 ### 1) Hardware Diagnostics/Monitoring
 > test
 ----
-### 2) Browser (Addons)
+### 2) Browser (Addon)
 > test
 ---
-### 3) Windows Modifications (Interface)
+### 3) Windows (Interface) Modification
 > test
 ---
 ### 4) Desktop Capturing
@@ -19,3 +19,10 @@
 ### 5) Media Players (et al.)
 > test
 --- 
+### 6) Downloader / Tool
+> test
+---
+### 7) Security
+> test
+---
+### 8) Editing / Creative
