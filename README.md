@@ -6,15 +6,39 @@
 ---
 ### 1) Hardware Diagnostics/Monitoring
 
-> test
+> HWiNFO
+> 
+> RTSS
+> 
+> XMeters
+> 
 
-### 2) Browser (Addon)
+### 2) Firefox Browser (Addon/UserScripts)
 
-> test
+> uBlock Origin
+> 
+> KeepassXC-Browser
+> 
+> h264ify
+> 
+> S3Translator
+> 
+> Search by Image
+> 
+> Dark Reader
+> 
+> Tamper Monkey Scripts...
+> 
+>>Google Unlocked
+>>
+>>Bandcamp Downloader
+>>
+>>Disable YouTube 60FPS (Force 30FPS)
+>>
 
 ### 3) Windows (Interface) Modification
 
-> test
+> OpenShell
 
 ### 4) Desktop Capturing
 
