@@ -6,28 +6,28 @@
 ## Index:
 - [Hardware Diagnostics/Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
 
-  - HWiNFO
+  - HWiNFO [(link)](https://www.hwinfo.com/download/)
  
-  - RTSS
+  - RTSS [(link)](https://www.guru3d.com/files/index.html)
  
-  - XMeters
+  - XMeters [(link)](https://entropy6.com/xmeters/download/)
  
 
 - Firefox Browser (Addon/UserScripts)
 
-  - uBlock Origin
+  - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
  
-  - KeepassXC-Browser
+  - KeepassXC-Browser [(link)](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
  
-  - h264ify
+  - h264ify [(link)](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
  
-  - S3Translator
+  - S3Translator [(link)](https://addons.mozilla.org/en-US/firefox/addon/s3_translator/)
  
-  - Search by Image
+  - Search by Image [(link)](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
  
-  - Dark Reader
+  - Dark Reader [(link)](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
  
-  - Tamper Monkey Scripts...
+  - Tampermonkey [(link)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) & Scripts...
  
        - Google Unlocked
 
