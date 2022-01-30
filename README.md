@@ -13,7 +13,7 @@
   - XMeters [(link)](https://entropy6.com/xmeters/download/)
  
 
-- Firefox Browser (Addon/UserScripts)
+- [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts)
 
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
  
@@ -36,35 +36,35 @@
        - Disable YouTube 60FPS (Force 30FPS)
 
 
-- Windows (Interface) Modification
+- [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification)
 
   - OpenShell
 
-- Desktop Capturing
+- [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing)
 
   - test
 
-- Media Players (et al.)
+- [Media Players (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
 
   - test
 
-- Downloader / Tool
+- [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
 
   - test
 
-- Security
+- [Security](#security)
 
   - test
 
-- Editing / Creative
+- [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative)
 
   - test
 
-- Gaming Companion
+- [Gaming Companion](#gaming-companion)
 
   - test
 
-- Miscelanneous
+- [Miscelanneous](#miscelanneous)
 
   - test
 ---
