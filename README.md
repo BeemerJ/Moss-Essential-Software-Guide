@@ -4,7 +4,7 @@
 
 
 ## Index:
-- ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
+- ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnostics--monitoring-1)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
  
@@ -45,7 +45,7 @@
   - Bandicam [(link)](https://www.bandicam.com/)
   - OBS Studio [(link)](https://obsproject.com/)
 
-- ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
+- ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-player--streaming-et-al-1)
 
 - #### Players
   - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
