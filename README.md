@@ -13,7 +13,7 @@
   - GPU-Z [(link)](https://www.techpowerup.com/download/techpowerup-gpu-z/)
  
 
-- ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts)
+- ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts-1)
 
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - KeepassXC-Browser [(link)](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -30,11 +30,11 @@
        - Disable YouTube 60FPS (Force 30FPS)
 
 
-- ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification)
+- ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification-1)
 
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
 
-- ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing)
+- ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing-1)
 
   - Bandicam [(link)](https://www.bandicam.com/)
   - OBS Studio [(link)](https://obsproject.com/)
@@ -52,7 +52,7 @@
   - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
-- ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
+- ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool-1)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
