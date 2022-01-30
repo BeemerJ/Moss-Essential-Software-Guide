@@ -62,13 +62,16 @@
 
 - ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative)
 
-  - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
-  - Paint.NET [(link)](https://www.getpaint.net/download.html)
-  - MSPaint
-  - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
-  - Renoise (Music Tracker) [(link)]()
-  - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
-  - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
+- #### Visual
+    - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
+    - Paint.NET [(link)](https://www.getpaint.net/download.html)
+    - MSPaint (you already know what it iss...)
+- #### Office
+    - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
+- #### Audio
+    - Renoise (Music Tracker/DAW) [(link)](https://www.renoise.com/download)
+    - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
+    - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
 
 - ### [Gaming Companion](#gaming-companion)
 
