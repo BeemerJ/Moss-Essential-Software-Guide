@@ -113,7 +113,21 @@
 
 ## Hardware Diagnostics / Monitoring
 
-  blah
+* [HWiNFO](https://www.hwinfo.com/download/)
+  > Basically the WHOLE diagnostic/stat get-up. Pairs well with RTSS.
+
+* [RTSS](https://www.guru3d.com/files/index.html)
+  > Tool for showing live stats while in-game.
+
+* [XMeters](https://entropy6.com/xmeters/download/)
+  > Nice for easily checking PC stats like cpu usage on the taskbar.
+
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+  > Utility for CPU info and many other useful stuff.
+
+* [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
+  > Similar to CPU-Z, just for GPU stuff instead.
+
 
 ## Firefox Browser (Addon/UserScripts)
 
