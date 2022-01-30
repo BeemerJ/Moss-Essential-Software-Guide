@@ -59,11 +59,11 @@
   - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
   - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
 
-- ### [Security](#security)
+- ### [Security](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#security-1y)
 
   - KeePassXC (Password Manager) [(link)](https://keepassxc.org/download/)
 
-- ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative)
+- ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative-1)
 
 - #### Visual
     - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
@@ -78,20 +78,20 @@
     - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
     - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
 
-- ### [Communication](#communication)
+- ### [Communication](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#communication-1)
 
   - Discord Canary [(link)](https://discord.com/api/download/canary?platform=win)
   - Thunderbird (Email Client) [(link)](https://www.thunderbird.net/en-US/)
   - Whatsapp [(link)](https://www.whatsapp.com/download)
   - Signal [(link)](https://signal.org/en/download/)
 
-- ### [Driver](#driver)
+- ### [Driver](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#driver-1)
 
   - Visual C++ Runtimes All-in-One [(link)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   - DirectX Runtimes Offline Installer [(link)](https://www.techpowerup.com/download/directx-redistributable-runtime/)
   - NVCleanInstall (Nvidia Driver Cleaner) [(link)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 
-- ### [Miscelanneous](#miscelanneous)
+- ### [Miscelanneous](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#miscelanneous-1)
  
   - rclone
   - Soundux
@@ -105,7 +105,7 @@
   - Mod Organizer
   - Oracle VM VirtualBox
  
-- ### [Tweaks](#tweaks)
+- ### [Tweaks](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#tweaks-1)
 
 ---
 
