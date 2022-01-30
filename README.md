@@ -4,7 +4,7 @@
 
 
 ## Index:
-- [Hardware Diagnostics/Monitoring](#hardware-diagnostics)
+- [Hardware Diagnostics/Monitoring](#hardware-diagnostics/monitoring)
 
   - HWiNFO
  
@@ -69,7 +69,7 @@
   - test
 ---
 
-## Hardware Diagnostics
+## Hardware Diagnostics/Monitoring
 
 ## Firefox Browser (Addon/UserScripts)
 
