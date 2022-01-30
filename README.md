@@ -7,26 +7,20 @@
 - ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnostics--monitoring-1)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
- 
   - RTSS [(link)](https://www.guru3d.com/files/index.html)
- 
   - XMeters [(link)](https://entropy6.com/xmeters/download/)
+  - CPU-Z [(link)](https://www.cpuid.com/softwares/cpu-z.html)
+  - GPU-Z [(link)](https://www.techpowerup.com/download/techpowerup-gpu-z/)
  
 
 - ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts)
 
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
- 
   - KeepassXC-Browser [(link)](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
- 
   - h264ify [(link)](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
- 
   - S3Translator [(link)](https://addons.mozilla.org/en-US/firefox/addon/s3_translator/)
- 
   - Search by Image [(link)](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
- 
   - Dark Reader [(link)](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
- 
   - Tampermonkey [(link)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) & Scripts...
  
        - Google Unlocked
@@ -52,8 +46,11 @@
   - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
   - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
   - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
+  - CDisplayEx (CBR) [(link)](https://www.cdisplayex.com/downloads)
 - #### Streamers
-  - Popcorn
+  - Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
+  - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
+  - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
 
 - ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
 
@@ -78,7 +75,10 @@
 
 - ### [Communication](#communication)
 
-  - test
+  - Discord Canary [(link)](https://discord.com/api/download/canary?platform=win)
+  - Thunderbird (Email Client) [(link)](https://www.thunderbird.net/en-US/)
+  - Whatsapp [(link)](https://www.whatsapp.com/download)
+  - Signal [(link)](https://signal.org/en/download/)
 
 - ### [Miscelanneous](#miscelanneous)
 
