@@ -42,11 +42,15 @@
 
 - [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing)
 
-  - test
+  - Bandicam [(link)](https://www.bandicam.com/)
+  - OBS Studio [(link)](https://obsproject.com/)
 
 - [Media Players (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
 
-  - test
+  - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
+  - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
+  - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
+  - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
 
 - [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
 
