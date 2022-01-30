@@ -4,7 +4,7 @@
 
 
 ## Index:
-- [Hardware Diagnostics/Monitoring](#hardware-diagnostics/monitoring)
+- [Hardware Diagnostics/Monitoring](#hardware-diagnostics-/-monitoring)
 
   - HWiNFO
  
