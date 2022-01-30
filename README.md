@@ -4,7 +4,7 @@
 
 
 ## Index:
-- [Hardware Diagnostics/Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
+- ### [Hardware Diagnostics/Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
  
@@ -13,7 +13,7 @@
   - XMeters [(link)](https://entropy6.com/xmeters/download/)
  
 
-- [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts)
+- ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts)
 
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
  
@@ -36,39 +36,45 @@
        - Disable YouTube 60FPS (Force 30FPS)
 
 
-- [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification)
+- ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification)
 
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
 
-- [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing)
+- ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing)
 
   - Bandicam [(link)](https://www.bandicam.com/)
   - OBS Studio [(link)](https://obsproject.com/)
 
-- [Media Players (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
+- ### [Media Players (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
 
   - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
   - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
   - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
   - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
 
-- [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
+- ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
+
+  - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
+
+- ### [Security](#security)
+
+  - KeePassXC (Password Manager) [(link)](https://keepassxc.org/download/)
+
+- ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative)
+
+  - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
+  - Paint.NET [(link)](https://www.getpaint.net/download.html)
+  - MSPaint
+  - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
+  - Renoise (Music Tracker) [(link)]()
+  - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
+  - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
+
+- ### [Gaming Companion](#gaming-companion)
 
   - test
 
-- [Security](#security)
-
-  - test
-
-- [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative)
-
-  - test
-
-- [Gaming Companion](#gaming-companion)
-
-  - test
-
-- [Miscelanneous](#miscelanneous)
+- ### [Miscelanneous](#miscelanneous)
 
   - test
 ---
