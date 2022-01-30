@@ -111,24 +111,46 @@
 
 ## Hardware Diagnostics / Monitoring
 
+  blah
+
 ## Firefox Browser (Addon/UserScripts)
+
+  blah
 
 ## Windows (Interface) Modification
 
+  blah
+
 ## Desktop Capturing
+
+  blah
 
 ## Media Player / Streaming (et al.)
 
+  blah
+
 ## Downloader / Tool
+
+  blah
 
 ## Security
 
+  blah
+
 ## Editing / Creative
+
+  blah
 
 ## Communication
 
+  blah
+
 ## Driver
 
+  blah
+
 ## Miscelanneous
+
+  blah
 
 ## Tweaks
