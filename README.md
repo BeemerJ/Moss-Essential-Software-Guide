@@ -1,10 +1,10 @@
 # MossMans-Essential-Software-Guide (Windows)
 
-> A collection of useful software I tend to use regularly, this is meant to be used a a guide or a point of refference.
+> A collection of _*some_ useful software I tend to use regularly, this is meant to be used a a guide or a point of refference.
 
 
 ## Index:
-- ### [Hardware Diagnostics/Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
+- ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
  
@@ -45,12 +45,15 @@
   - Bandicam [(link)](https://www.bandicam.com/)
   - OBS Studio [(link)](https://obsproject.com/)
 
-- ### [Media Players (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
+- ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-players-et-al)
 
+- #### Players
   - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
   - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
   - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
   - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
+- #### Streamers
+  - Popcorn
 
 - ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
 
@@ -73,7 +76,7 @@
     - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
     - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
 
-- ### [Gaming Companion](#gaming-companion)
+- ### [Communication](#communication)
 
   - test
 
@@ -82,7 +85,7 @@
   - test
 ---
 
-## Hardware Diagnostics/Monitoring
+## Hardware Diagnostics / Monitoring
 
 ## Firefox Browser (Addon/UserScripts)
 
@@ -90,7 +93,7 @@
 
 ## Desktop Capturing
 
-## Media Players (et al.)
+## Media Player / Streaming (et al.)
 
 ## Downloader / Tool
 
@@ -98,6 +101,6 @@
 
 ## Editing / Creative
 
-## Gaming Companion
+## Communication
 
 ## Miscelanneous
