@@ -1,6 +1,6 @@
 # MossMans-Essential-Software-Guide (Windows)
 
-> A collection of _*some_ useful software I tend to use regularly, this is meant to be used a a guide or a point of refference.
+###### A collection of _some_ software I _personally_ tend to use regularly, this is meant to be used a a guide or a point of refference. Emphasis on the italicized words.
 
 
 ## Index:
