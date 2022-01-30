@@ -4,7 +4,7 @@
 
 
 ## Index:
-- [Hardware Diagnostics/Monitoring](Hardware Diagnostics/Monitoring)
+- [Hardware Diagnostics/Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnosticsmonitoring)
 
   - HWiNFO
  
