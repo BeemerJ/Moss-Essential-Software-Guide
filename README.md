@@ -69,13 +69,22 @@
   - test
 ---
 
-##Hardware Diagnostics
-##Firefox Browser (Addon/UserScripts)
-##Windows (Interface) Modification
-##Desktop Capturing
-##Media Players (et al.)
-##Downloader / Tool
-##Security
-##Editing / Creative
-##Gaming Companion
-##Miscelanneous
+## Hardware Diagnostics
+
+## Firefox Browser (Addon/UserScripts)
+
+## Windows (Interface) Modification
+
+## Desktop Capturing
+
+## Media Players (et al.)
+
+## Downloader / Tool
+
+## Security
+
+## Editing / Creative
+
+## Gaming Companion
+
+## Miscelanneous
