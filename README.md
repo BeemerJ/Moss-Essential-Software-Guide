@@ -50,11 +50,14 @@
 - #### Streamers
   - Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
   - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
-  - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
+
 
 - ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
+  - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
+  - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
+  - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
 
 - ### [Security](#security)
 
@@ -65,10 +68,12 @@
 - #### Visual
     - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
     - Paint.NET [(link)](https://www.getpaint.net/download.html)
-    - MSPaint (you already know what it iss...)
+    - MSPaint ( you already know what it iss... )
 - #### Office
     - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
+    - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
 - #### Audio
+    - Audacity [(link)](https://www.fosshub.com/Audacity-old.html)
     - Renoise (Music Tracker/DAW) [(link)](https://www.renoise.com/download)
     - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
     - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
@@ -80,9 +85,28 @@
   - Whatsapp [(link)](https://www.whatsapp.com/download)
   - Signal [(link)](https://signal.org/en/download/)
 
-- ### [Miscelanneous](#miscelanneous)
+- ### [Driver](#driver)
 
-  - test
+  - Visual C++ Runtimes All-in-One [(link)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+  - DirectX Runtimes Offline Installer [(link)](https://www.techpowerup.com/download/directx-redistributable-runtime/)
+  - NVCleanInstall (Nvidia Driver Cleaner) [(link)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+
+- ### [Miscelanneous](#miscelanneous)
+ 
+  - rclone
+  - Soundux
+  - Spleeter
+  - Joyxoff
+  - WizTree
+  - WizFile
+  - USB Device Tree Viewer
+  - Sherlock
+  - Rufus
+  - Mod Organizer
+  - Oracle VM VirtualBox
+ 
+- ### [Tweaks](#tweaks)
+
 ---
 
 ## Hardware Diagnostics / Monitoring
@@ -103,4 +127,8 @@
 
 ## Communication
 
+## Driver
+
 ## Miscelanneous
+
+## Tweaks
