@@ -38,7 +38,7 @@
 
 - [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification)
 
-  - OpenShell
+  - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
 
 - [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing)
 
