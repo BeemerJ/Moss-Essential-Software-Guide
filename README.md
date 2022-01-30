@@ -23,11 +23,13 @@
   - Dark Reader [(link)](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   - Tampermonkey [(link)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) & Scripts...
  
-       - Google Unlocked
+       - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
 
-       - Bandcamp Downloader
+       - [Bandcamp Downloader](https://greasyfork.org/en/scripts/435824-bandcamp-downloader)
 
-       - Disable YouTube 60FPS (Force 30FPS)
+       - [Disable YouTube 60FPS (Force 30FPS)](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
+       
+       - [Return YouTube Dislike](https://www.returnyoutubedislike.com/install)
 
 
 - ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification-1)
