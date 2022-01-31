@@ -253,13 +253,13 @@
 
   * #### Visual
     
-    * Libresprite [(link)](https://libresprite.github.io/#!/downloads)
+    * [Libresprite](https://libresprite.github.io/#!/downloads)
       >Cute sprite editing software.
  
-    * Paint.NET [(link)](https://www.getpaint.net/download.html)
+    * [Paint.NET](https://www.getpaint.net/download.html)
       >Really great free image editing software with lots of plugins and support.
  
-    * MSPaint ( you already know what it iss... )
+    * MSPaint [(How to use on Windows 10)]()
       >bruh.
  
   * #### Office
