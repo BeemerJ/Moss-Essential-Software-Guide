@@ -62,7 +62,7 @@
     - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
-- ### [Download](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool-1)
+- ### [Download](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#download-1)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
