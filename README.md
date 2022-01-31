@@ -1,6 +1,6 @@
 # MossMans-Essential-Software-Guide (Windows)
 
-###### A collection of _some_ software I _personally_ tend to use regularly, this is meant to be used a a guide or a point of refference. Emphasis on the italicized words.
+###### A collection of _some_ software I _personally_ tend to use regularly. This is meant to be used a a guide or a point of refference. Emphasis on the italicized words.
 
 
 ## Index:
@@ -43,15 +43,15 @@
 
 - ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-player--streaming-et-al-1)
 
-- #### Players
-  - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
-  - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
-  - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
-  - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
-  - CDisplayEx (CBR) [(link)](https://www.cdisplayex.com/downloads)
-- #### Streamers
-  - Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
-  - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
+  - #### Players
+    - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
+    - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
+    - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
+    - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
+    - CDisplayEx (CBR) [(link)](https://www.cdisplayex.com/downloads)
+  - #### Streamers
+    - Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
+    - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
 - ### [Downloader / Tool](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool-1)
@@ -67,14 +67,14 @@
 
 - ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative-1)
 
-- #### Visual
+  - #### Visual
     - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
     - Paint.NET [(link)](https://www.getpaint.net/download.html)
     - MSPaint ( you already know what it iss... )
-- #### Office
+  - #### Office
     - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
     - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
-- #### Audio
+  - #### Audio
     - Audacity [(link)](https://www.fosshub.com/Audacity-old.html)
     - Renoise (Music Tracker/DAW) [(link)](https://www.renoise.com/download)
     - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
@@ -138,44 +138,68 @@
   > An extention that communicates with KeepassXC, ignore if you won't be using that.
 
 * [h264ify](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-  >"Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.
+  > "Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.
 
 * [S3Translator](https://addons.mozilla.org/en-US/firefox/addon/s3_translator/)
-  >A neat addon that can translate whole pages for you.
+  > A neat addon that can translate whole pages for you.
 
 * [Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
-  >Pretty self-explanatory.
+  > Pretty self-explanatory.
 
 * [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-  >Converts sites which don't have a dark mode to a nicer shade of black.
+  > Converts sites which don't have a dark mode to a nicer shade of black.
 
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-  >Just the Userscript Manager I use.
+  > Just the Userscript Manager I use.
   * Scripts:
     - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
-      >Script that unlocks hidden Google Search results.
+      > Script that unlocks hidden Google Search results.
 
     - [Bandcamp Downloader](https://greasyfork.org/en/scripts/435824-bandcamp-downloader)
-      >Support the artists!
+      > Support the artists!
 
     - [Disable YouTube 60FPS (Force 30FPS)](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
-      >Lets you watch higher resolutions at a lower framerate to save some bandwidth.
+      > Lets you watch higher resolutions at a lower framerate to save some bandwidth.
        
     - [Return YouTube Dislike](https://www.returnyoutubedislike.com/install)
-      >Brings back the dislike button, RIP.
+      > Brings back the dislike button, RIP.
 
 
 ## Windows (Interface) Modification
 
-  blah
+* [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu/releases)
+  > Adds a customizable start menu, good if you want a little XP in your 10.
+
 
 ## Desktop Capturing
 
-  blah
-
+* [Bandicam](https://www.bandicam.com/)
+  > Just a simple capturer, if you don't like OBS. 
+  
+* [OBS Studio](https://obsproject.com/)
+  > The all in one recording and broadcasting software that most people tend to use.
+ 
 ## Media Player / Streaming (et al.)
 
-  blah
+* #### Players
+  * [MPC-HC](https://github.com/clsid2/mpc-hc/releases/)
+    >A very smooth and simple video player, forked and updated from the original.
+  
+  * [VLC](https://www.videolan.org/vlc/)
+    >The big V, plays most formats and various built-in tools.
+  
+  * [AIMP](https://www.aimp.ru/?do=download)
+    >My favourite music player. LOTS of customization and plugins to play most formats nicely.
+  
+  * [XnViewMP](https://www.xnview.com/en/xnviewmp/)
+    >Neat image viewing software, highly customizable.
+  
+  * [CDisplayEx](https://www.cdisplayex.com/downloads)
+    >Your average run-of-the-mill comic book reader.
+
+* #### Streamers
+  * Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
+  * YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 ## Downloader / Tool
 
