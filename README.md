@@ -116,18 +116,6 @@
 
 - ### [Miscelanneous](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#miscelanneous-1)
  
-  - rclone
-  - Soundux
-  - Spleeter
-  - Joyxoff
-  - WizTree
-  - WizFile
-  - USB Device Tree Viewer
-  - Sherlock
-  - Rufus
-  - Mod Organizer
-  - Oracle VM VirtualBox
- 
 - ### [Tweaks](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#tweaks-1)
 
 ---
@@ -323,15 +311,37 @@
 ## Miscelanneous
 
 * rclone
+  >Useful app for [mounting your cloud storage as a drive on windows]().
+
 * Soundux
+  >
+
 * Spleeter
+  >
+
 * Joyxoff
+  >
+
 * WizTree
+  >
+
 * WizFile
+  >
+
 * USB Device Tree Viewer
+  >
+
 * Sherlock
+  >
+
 * Rufus
+  >
+
 * Mod Organizer
+  >
+
 * Oracle VM VirtualBox
+  >
+
 
 ## Tweaks
