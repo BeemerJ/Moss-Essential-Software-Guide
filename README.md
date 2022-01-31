@@ -196,51 +196,51 @@
 * #### Players
   
   * [MPC-HC](https://github.com/clsid2/mpc-hc/releases/)
-    >A very smooth and simple video player, forked and updated from the original.
+    > A very smooth and simple video player, forked and updated from the original.
   
   * [VLC](https://www.videolan.org/vlc/)
-    >The big V, plays most formats and various built-in tools.
+    > The big V, plays most formats and various built-in tools.
   
   * [AIMP](https://www.aimp.ru/?do=download)
-    >My favourite music player. LOTS of customization and plugins to play most formats nicely.
+    > My favourite music player. LOTS of customization and plugins to play most formats nicely.
   
   * [XnViewMP](https://www.xnview.com/en/xnviewmp/)
-    >Neat image viewing software, highly customizable.
+    > Neat image viewing software, highly customizable.
   
   * [CDisplayEx](https://www.cdisplayex.com/downloads)
-    >Your average run-of-the-mill comic book reader.
+    > Your average run-of-the-mill comic book reader.
 
 * #### Streamers
   
   * [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop/releases)
-    >A BitTorrent client that streams movies from your favourite torrent sites.
+    > A BitTorrent client that streams movies from your favourite torrent sites.
   
   * [YouTube Music](https://github.com/th-ch/youtube-music)
-    >Regular YTM client with nice plugins.
+    > Regular YTM client with nice plugins.
 
 
 ## Download
 
 * [JDownloader 2](https://jdownloader.org/jdownloader2)
-  >A regular download manager.
+  > A regular download manager.
   
 * [Nicotine+](https://nicotine-plus.org/)
-  >Peer 2 Peer filesharing client using Soulseek, mostly used for audio.
+  > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
 * [YouTube-DLG](http://mrs0m30n3.github.io/youtube-dl-gui/)
-  >Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
+  > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
   
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
-  >Forked version of qBittorrent, smooth.
+  > Forked version of qBittorrent, smooth.
 
 
 ## Security
 
 * [KeePassXC](https://keepassxc.org/download/)
-  >A cool looking password vault.
+  > A cool looking password vault.
  
 * [Tron](https://old.reddit.com/r/TronScript/)
-  >"A glorified collection of batch files that automate the process of cleaning up Windows systems".
+  > "A glorified collection of batch files that automate the process of cleaning up Windows systems".
 
 
 ## Editing / Creative
@@ -248,100 +248,100 @@
 * #### Visual
     
   * [Libresprite](https://libresprite.github.io/#!/downloads)
-    >Cute sprite editing software.
+    > Cute sprite editing software.
  
   * [Paint.NET](https://www.getpaint.net/download.html)
-    >Really great free image editing software with lots of plugins and support.
+    > Really great free image editing software with lots of plugins and support.
  
   * [MSPaint](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
-    >bruh.
+    > bruh.
  
 * #### Office
     
   * [LibreOffice](https://www.libreoffice.org/download/download/)
-    >Free alternative to Microsoft Office.
+    > Free alternative to Microsoft Office.
     
   * [Notepad++](https://notepad-plus-plus.org/downloads/)
-    >Harder, Better, Faster, Stronger notepad.
+    > Harder, Better, Faster, Stronger notepad.
  
 * #### Audio 
     
   * [Audacity](https://www.fosshub.com/Audacity-old.html)
-    >Your basic audio editing software.
+    > Your basic audio editing software.
     
   * [Renoise](https://www.renoise.com/download)
-    >Powerful music tracker software that I'm too dumb to know how to use.
+    > Powerful music tracker software that I'm too dumb to know how to use.
     
   * [Milky Tracker](https://github.com/milkytracker/MilkyTracker/releases)
-    >Same as the above, but _r e t r o . . ._
+    > Same as the above, but _r e t r o . . ._
     
   * [Mixxx](https://mixxx.org/download/)
-    >Free DJ software. 'Nuff said.
+    > Free DJ software. 'Nuff said.
 
 
 ## Communication
 
 * [Discord Canary](https://discord.com/api/download/canary?platform=win)
-  >Goes nicely with a side of [Powercord](https://powercord.dev/)
+  > Goes nicely with a side of [Powercord](https://powercord.dev/)
   
 * [Thunderbird](https://www.thunderbird.net/en-US/)
-  >Very productive desktop email client.
+  > Very productive desktop email client.
   
 * [Whatsapp Desktop](https://www.whatsapp.com/download)
-  >Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
+  > Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
   
 * [Signal Desktop](https://signal.org/en/download/)
-  >Wish my phone didn't need to be on though...
+  > Wish my phone didn't need to be on though...
 
 ## Driver / Runtime
 
 * [Visual C++ Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-  >For lazy people who don't wanna download everything _individually_.
+  > For lazy people who don't wanna download everything _individually_.
   
 * [DirectX Runtimes Offline Installer](https://www.techpowerup.com/download/directx-redistributable-runtime/)
-  >Offline installers are just nice.
+  > Offline installers are just nice.
   
 * [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
-  >Removes unnecessary bloat from Nvidia Drivers.
+  > Removes unnecessary bloat from Nvidia Drivers.
   
 * [Liberica JDK](https://bell-sw.com/pages/downloads/)
-  >Alternative to Oracles Java runtimes.
+  > Alternative to Oracles Java runtimes.
 
 
 ## Miscelanneous
 
-* rclone
-  >Useful app for [mounting your cloud storage as a drive on windows]().
+* [rclone](https://rclone.org/downloads/)
+  > Useful app for [mounting your cloud storage as a drive on windows](https://github.com/Code-Moss/Rclone-Mounting-Template).
 
-* Soundux
-  >
+* [Soundux](https://soundux.rocks/download)
+  > The nicest soundboard programme I've used.
 
-* Spleeter
-  >
+* [SpleeterGUI](https://github.com/thooore/SpleeterGUI/releases)
+  > Nifty tool for easy audio seperation and isolation.
 
-* Joyxoff
-  >
+* [Joyxoff](https://joyxoff.com/en/)
+  > Xbox controller remapper, nice for media controls and mouse movement for games and such.
 
-* WizTree
-  >
+* [WizTree](https://diskanalyzer.com/download)
+  > The FASTEST Disk Space Analyzer.
 
-* WizFile
-  >
+* [WizFile](https://antibody-software.com/wizfile/download)
+  > An extremely fast file finder.
 
-* USB Device Tree Viewer
-  >
+* [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html#download)
+  > Tool for diagnosing usb ports.
 
-* Sherlock
-  >
+* [Sherlock](https://github.com/sherlock-project/sherlock#installation)
+  > Python programme to stalk people with...
 
-* Rufus
-  >
+* [Rufus](https://rufus.ie/en/#)
+  > Simple and fast flashing tool.
 
-* Mod Organizer
-  >
+* [Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files)
+  > Mod manager for most of bethesdas gamebryo / creation engine games.
 
 * Oracle VM VirtualBox
-  >
+  > My preffered virtual machine software
 
 
 ## Tweaks
