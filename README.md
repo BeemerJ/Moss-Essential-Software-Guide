@@ -111,6 +111,7 @@
   - Visual C++ Runtimes All-in-One [(link)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   - DirectX Runtimes Offline Installer [(link)](https://www.techpowerup.com/download/directx-redistributable-runtime/)
   - NVCleanInstall (Nvidia Driver Cleaner) [(link)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+  - Liberica JDK (Java Runtime) [(link)](https://bell-sw.com/pages/downloads/)
 
 - ### [Miscelanneous](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#miscelanneous-1)
  
@@ -231,80 +232,101 @@
 
 ## Download
 
-  * [JDownloader 2](https://jdownloader.org/jdownloader2)
-    >A regular download manager.
+* [JDownloader 2](https://jdownloader.org/jdownloader2)
+  >A regular download manager.
   
-  * [Nicotine+](https://nicotine-plus.org/)
-    >Peer 2 Peer filesharing client using Soulseek, mostly used for audio.
+* [Nicotine+](https://nicotine-plus.org/)
+  >Peer 2 Peer filesharing client using Soulseek, mostly used for audio.
   
-  * YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
-    >Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
+* [YouTube-DLG](http://mrs0m30n3.github.io/youtube-dl-gui/)
+  >Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
   
-  * qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
-    >Forked version of qBittorrent, smooth.
+* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
+  >Forked version of qBittorrent, smooth.
 
 
 ## Security
 
-  * [KeePassXC](https://keepassxc.org/download/)
-    >A cool looking password vault.
+* [KeePassXC](https://keepassxc.org/download/)
+  >A cool looking password vault.
 
 ## Editing / Creative
 
-  * #### Visual
+* #### Visual
     
-    * [Libresprite](https://libresprite.github.io/#!/downloads)
-      >Cute sprite editing software.
+  * [Libresprite](https://libresprite.github.io/#!/downloads)
+    >Cute sprite editing software.
  
-    * [Paint.NET](https://www.getpaint.net/download.html)
-      >Really great free image editing software with lots of plugins and support.
+  * [Paint.NET](https://www.getpaint.net/download.html)
+    >Really great free image editing software with lots of plugins and support.
  
-    * [MSPaint](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
-      >bruh.
+  * [MSPaint](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
+    >bruh.
  
-  * #### Office
+* #### Office
     
-    * [LibreOffice](https://www.libreoffice.org/download/download/)
-      >Free alternative to Microsoft Office.
+  * [LibreOffice](https://www.libreoffice.org/download/download/)
+    >Free alternative to Microsoft Office.
     
-    * [Notepad++](https://notepad-plus-plus.org/downloads/)
-      >Harder, Better, Faster, Stronger notepad.
+  * [Notepad++](https://notepad-plus-plus.org/downloads/)
+    >Harder, Better, Faster, Stronger notepad.
  
  * #### Audio 
     
-    - [Audacity](https://www.fosshub.com/Audacity-old.html)
-      >Your basic audio editing software.
+  * [Audacity](https://www.fosshub.com/Audacity-old.html)
+    >Your basic audio editing software.
     
-    - [Renoise](https://www.renoise.com/download)
-      >Powerful music tracker software that I'm too dumb to know how to use.
+  * [Renoise](https://www.renoise.com/download)
+    >Powerful music tracker software that I'm too dumb to know how to use.
     
-    - [Milky Tracker](https://github.com/milkytracker/MilkyTracker/releases)
-      >Same as the above, but _r e t r o . . ._
+  * [Milky Tracker](https://github.com/milkytracker/MilkyTracker/releases)
+    >Same as the above, but _r e t r o . . ._
     
-    - [Mixxx](https://mixxx.org/download/)
-      >Free DJ software. 'Nuff said.
+  * [Mixxx](https://mixxx.org/download/)
+    >Free DJ software. 'Nuff said.
 
 
 ## Communication
 
-  * [Discord Canary](https://discord.com/api/download/canary?platform=win)
-    >Goes nicely with a side of [Powercord](https://powercord.dev/)
+* [Discord Canary](https://discord.com/api/download/canary?platform=win)
+  >Goes nicely with a side of [Powercord](https://powercord.dev/)
   
-  * [Thunderbird](https://www.thunderbird.net/en-US/)
-    >Very productive desktop email client.
+* [Thunderbird](https://www.thunderbird.net/en-US/)
+  >Very productive desktop email client.
   
-  * [Whatsapp Desktop](https://www.whatsapp.com/download)
-    >Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
+* [Whatsapp Desktop](https://www.whatsapp.com/download)
+  >Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
   
-  * [Signal Desktop](https://signal.org/en/download/)
-    >Wish my phone didn't need to be on though...
+* [Signal Desktop](https://signal.org/en/download/)
+  >Wish my phone didn't need to be on though...
 
 ## Driver / Runtime
 
-  blah
+* [Visual C++ Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+  >For lazy people who don't wanna download everything _individually_.
+  
+* [DirectX Runtimes Offline Installer](https://www.techpowerup.com/download/directx-redistributable-runtime/)
+  >Offline installers are just nice.
+  
+* [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+  >Removes unnecessary bloat from Nvidia Drivers.
+  
+* [Liberica JDK](https://bell-sw.com/pages/downloads/)
+  >Alternative to Oracles Java runtimes.
+
 
 ## Miscelanneous
 
-  blah
+  - rclone
+  - Soundux
+  - Spleeter
+  - Joyxoff
+  - WizTree
+  - WizFile
+  - USB Device Tree Viewer
+  - Sherlock
+  - Rufus
+  - Mod Organizer
+  - Oracle VM VirtualBox
 
 ## Tweaks
