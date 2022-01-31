@@ -131,7 +131,39 @@
 
 ## Firefox Browser (Addon/UserScripts)
 
-  blah
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  > The only Adblock you'll really ever need.
+
+* [KeepassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+  > An extention that communicates with KeepassXC, ignore if you won't be using that.
+
+* [h264ify](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+  >"Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.
+
+* [S3Translator](https://addons.mozilla.org/en-US/firefox/addon/s3_translator/)
+  >A neat addon that can translate whole pages for you.
+
+* [Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
+  >Pretty self-explanatory.
+
+* [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+  >Converts sites which don't have a dark mode to a nicer shade of black.
+
+* [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+  >Just the Userscript Manager I use.
+  * Scripts:
+    - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
+      >Script that unlocks hidden Google Search results.
+
+    - [Bandcamp Downloader](https://greasyfork.org/en/scripts/435824-bandcamp-downloader)
+      >Support the artists!
+
+    - [Disable YouTube 60FPS (Force 30FPS)](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
+      >Lets you watch higher resolutions at a lower framerate to save some bandwidth.
+       
+    - [Return YouTube Dislike](https://www.returnyoutubedislike.com/install)
+      >Brings back the dislike button, RIP.
+
 
 ## Windows (Interface) Modification
 
