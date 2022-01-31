@@ -106,7 +106,7 @@
   - Whatsapp Desktop [(link)](https://www.whatsapp.com/download)
   - Signal Desktop [(link)](https://signal.org/en/download/)
 
-- ### [Driver / Runtime](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#driver-1)
+- ### [Driver / Runtime](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#driver--runtime-1)
 
   - Visual C++ Runtimes All-in-One [(link)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   - DirectX Runtimes Offline Installer [(link)](https://www.techpowerup.com/download/directx-redistributable-runtime/)
