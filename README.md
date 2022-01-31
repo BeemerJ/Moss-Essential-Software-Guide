@@ -55,8 +55,10 @@
     
     - CDisplayEx (CBR) [(link)](https://www.cdisplayex.com/downloads)
  
- - #### Streamers
+  - #### Streamers
+    
     - Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
+    
     - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
