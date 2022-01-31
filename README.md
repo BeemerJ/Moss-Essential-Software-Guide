@@ -103,8 +103,8 @@
 
   - Discord Canary [(link)](https://discord.com/api/download/canary?platform=win)
   - Thunderbird (Email Client) [(link)](https://www.thunderbird.net/en-US/)
-  - Whatsapp [(link)](https://www.whatsapp.com/download)
-  - Signal [(link)](https://signal.org/en/download/)
+  - Whatsapp Desktop [(link)](https://www.whatsapp.com/download)
+  - Signal Desktop [(link)](https://signal.org/en/download/)
 
 - ### [Driver](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#driver-1)
 
@@ -264,10 +264,10 @@
  
   * #### Office
     
-    * LibreOffice [(link)](https://www.libreoffice.org/download/download/)
+    * [LibreOffice](https://www.libreoffice.org/download/download/)
       >Free alternative to Microsoft Office.
     
-    * Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
+    * [Notepad++](https://notepad-plus-plus.org/downloads/)
       >Harder, Better, Faster, Stronger notepad.
  
  * #### Audio 
@@ -287,7 +287,17 @@
 
 ## Communication
 
-  blah
+  * [Discord Canary](https://discord.com/api/download/canary?platform=win)
+    >Goes nicely with a side of [Powercord](https://powercord.dev/)
+  
+  * [Thunderbird](https://www.thunderbird.net/en-US/)
+    >Very productive desktop email client.
+  
+  * [Whatsapp Desktop](https://www.whatsapp.com/download)
+    >Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
+  
+  * [Signal Desktop](https://signal.org/en/download/)
+    >Wish my phone didn't need to be on though...
 
 ## Driver
 
