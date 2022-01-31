@@ -62,7 +62,7 @@
     - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
-- ### [Downloader](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool-1)
+- ### [Download](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#downloader--tool-1)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
@@ -229,7 +229,7 @@
     >Regular YTM client with nice plugins.
 
 
-## Downloader
+## Download
 
   * [JDownloader 2](https://jdownloader.org/jdownloader2)
     >A regular download manager.
