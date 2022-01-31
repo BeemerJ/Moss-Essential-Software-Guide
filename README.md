@@ -322,16 +322,16 @@
 
 ## Miscelanneous
 
-  - rclone
-  - Soundux
-  - Spleeter
-  - Joyxoff
-  - WizTree
-  - WizFile
-  - USB Device Tree Viewer
-  - Sherlock
-  - Rufus
-  - Mod Organizer
-  - Oracle VM VirtualBox
+* rclone
+* Soundux
+* Spleeter
+* Joyxoff
+* WizTree
+* WizFile
+* USB Device Tree Viewer
+* Sherlock
+* Rufus
+* Mod Organizer
+* Oracle VM VirtualBox
 
 ## Tweaks
