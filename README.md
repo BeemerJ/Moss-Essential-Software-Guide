@@ -271,7 +271,7 @@
   * [Notepad++](https://notepad-plus-plus.org/downloads/)
     >Harder, Better, Faster, Stronger notepad.
  
- * #### Audio 
+* #### Audio 
     
   * [Audacity](https://www.fosshub.com/Audacity-old.html)
     >Your basic audio editing software.
