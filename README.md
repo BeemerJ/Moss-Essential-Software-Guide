@@ -69,7 +69,7 @@
   - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
   - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
 
-- ### [Security](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#security-1y)
+- ### [Security](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#security-1)
 
   - KeePassXC (Password Manager) [(link)](https://keepassxc.org/download/)
   - Tron (Batch "Maintanance" Scripts) [(link)](https://old.reddit.com/r/TronScript/)
