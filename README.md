@@ -81,7 +81,7 @@
     
     - Paint.NET [(link)](https://www.getpaint.net/download.html)
     
-    - MSPaint ( you already know what it iss... )
+    - MSPaint ( you already know what it iss... ) [(link)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
    
   - #### Office
     
@@ -259,7 +259,7 @@
     * [Paint.NET](https://www.getpaint.net/download.html)
       >Really great free image editing software with lots of plugins and support.
  
-    * MSPaint [(How to use on Windows 10)]()
+    * [MSPaint](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
       >bruh.
  
   * #### Office
