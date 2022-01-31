@@ -44,12 +44,18 @@
 - ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-player--streaming-et-al-1)
 
   - #### Players
+    
     - MPC-HC (Videos) [(link)](https://github.com/clsid2/mpc-hc/releases/)
+    
     - VLC (Multimedia) [(link)](https://www.videolan.org/vlc/)
+    
     - AIMP (Music) [(link)](https://www.aimp.ru/?do=download)
+    
     - XnViewMP (Images) [(link)](https://www.xnview.com/en/xnviewmp/)
+    
     - CDisplayEx (CBR) [(link)](https://www.cdisplayex.com/downloads)
-  - #### Streamers
+ 
+ - #### Streamers
     - Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
     - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
@@ -68,13 +74,20 @@
 - ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative-1)
 
   - #### Visual
+    
     - Libresprite [(link)](https://libresprite.github.io/#!/downloads)
+    
     - Paint.NET [(link)](https://www.getpaint.net/download.html)
+    
     - MSPaint ( you already know what it iss... )
+   
   - #### Office
+    
     - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
+    
     - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
-  - #### Audio
+ 
+ - #### Audio
     - Audacity [(link)](https://www.fosshub.com/Audacity-old.html)
     - Renoise (Music Tracker/DAW) [(link)](https://www.renoise.com/download)
     - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
@@ -151,7 +164,9 @@
 
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
   > Just the Userscript Manager I use.
+  
   * Scripts:
+    
     - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
       > Script that unlocks hidden Google Search results.
 
@@ -179,9 +194,11 @@
 * [OBS Studio](https://obsproject.com/)
   > The all in one recording and broadcasting software that most people tend to use.
  
+
 ## Media Player / Streaming (et al.)
 
 * #### Players
+  
   * [MPC-HC](https://github.com/clsid2/mpc-hc/releases/)
     >A very smooth and simple video player, forked and updated from the original.
   
@@ -198,12 +215,28 @@
     >Your average run-of-the-mill comic book reader.
 
 * #### Streamers
-  * Popcorn Time [(link)](https://github.com/popcorn-official/popcorn-desktop/releases)
-  * YouTube Music [(link)](https://github.com/th-ch/youtube-music)
+  
+  * [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop/releases)
+    >A BitTorrent client that streams movies from your favourite torrent sites.
+  
+  * [YouTube Music](https://github.com/th-ch/youtube-music)
+    >Regular YTM client with nice plugins.
+
 
 ## Downloader / Tool
 
-  blah
+  * [JDownloader 2](https://jdownloader.org/jdownloader2)
+    >A regular download manager.
+  
+  * [Nicotine+](https://nicotine-plus.org/)
+    >Peer 2 Peer filesharing client using Soulseek, mostly used for audio.
+  
+  * YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
+    >Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
+  
+  * qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
+    >Forked version of qBittorrent, smooth.
+
 
 ## Security
 
