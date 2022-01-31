@@ -87,10 +87,14 @@
     
     - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
  
- - #### Audio
+  - #### Audio
+ 
     - Audacity [(link)](https://www.fosshub.com/Audacity-old.html)
+    
     - Renoise (Music Tracker/DAW) [(link)](https://www.renoise.com/download)
+    
     - Milky Tracker (Old School Music Tracker) [(link)](https://github.com/milkytracker/MilkyTracker/releases)
+    
     - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
 
 - ### [Communication](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#communication-1)
@@ -240,11 +244,44 @@
 
 ## Security
 
-  blah
+  * [KeePassXC](https://keepassxc.org/download/)
+    >A cool looking password vault.
 
 ## Editing / Creative
 
-  blah
+  * #### Visual
+    
+    * Libresprite [(link)](https://libresprite.github.io/#!/downloads)
+      >Cute sprite editing software.
+ 
+    * Paint.NET [(link)](https://www.getpaint.net/download.html)
+      >Really great free image editing software with lots of plugins and support.
+ 
+    * MSPaint ( you already know what it iss... )
+      >bruh.
+ 
+  * #### Office
+    
+    * LibreOffice [(link)](https://www.libreoffice.org/download/download/)
+      >Free alternative to Microsoft Office.
+    
+    * Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
+      >Harder, Better, Faster, Stronger notepad.
+ 
+ * #### Audio 
+    
+    - [Audacity](https://www.fosshub.com/Audacity-old.html)
+      >Your basic audio editing software.
+    
+    - [Renoise](https://www.renoise.com/download)
+      >Powerful music tracker software that I'm too dumb to know how to use.
+    
+    - [Milky Tracker](https://github.com/milkytracker/MilkyTracker/releases)
+      >Same as the above, but _r e t r o . . ._
+    
+    - [Mixxx](https://mixxx.org/download/)
+      >Free DJ software. 'Nuff said.
+
 
 ## Communication
 
