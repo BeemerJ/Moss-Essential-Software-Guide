@@ -222,7 +222,7 @@
 ## Download
 
 * [JDownloader 2](https://jdownloader.org/jdownloader2)
-  > A regular download manager.
+  > A regular download manager. (Not as nice as IDM tho.)
   
 * [Nicotine+](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
