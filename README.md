@@ -89,6 +89,8 @@
     - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
     
     - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
+
+    - Joplin [(link)](https://joplinapp.org/)
  
   - #### Audio
  
@@ -263,6 +265,9 @@
     
   * [Notepad++](https://notepad-plus-plus.org/downloads/)
     > Harder, Better, Faster, Stronger notepad.
+
+  * [Joplin](https://joplinapp.org/)
+    > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.
  
 * #### Audio 
     
