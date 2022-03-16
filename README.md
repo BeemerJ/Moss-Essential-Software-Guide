@@ -348,5 +348,7 @@
 * [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   > My preffered virtual machine software
 
+* [FAT32 Format](https://www.majorgeeks.com/files/details/fat32format.html)
+  > Handy tool for formatting things bigger than 32Gb, mostly used for older hardware like MP3 players.
 
 ## Tweaks
