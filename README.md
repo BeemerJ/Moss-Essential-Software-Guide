@@ -35,6 +35,9 @@
 - ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification-1)
 
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
+  - WinAero [(link)](https://winaero.com/winaero-tweaker/)
+  - Lively [(link)](https://rocksdanister.github.io/lively/)
+  - PowerToys [(link)])(https://github.com/microsoft/PowerToys)
 
 - ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing-1)
 
@@ -183,6 +186,14 @@
 * [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   > Adds a customizable start menu, good if you want a little XP in your 10.
 
+* [WinAero Tweaker](WinAero [https://winaero.com/winaero-tweaker/)
+  > Customize hidden things, nice QOL stuff right here.
+
+* [Lively](https://rocksdanister.github.io/lively/)
+  > Live desktop wallpaper support, free alternative to Wallpaper Engine.
+
+* [PowerToys](https://github.com/microsoft/PowerToys)
+  > Nice productivity mods for windows.
 
 ## Desktop Capturing
 
