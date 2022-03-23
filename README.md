@@ -37,7 +37,7 @@
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   - WinAero [(link)](https://winaero.com/winaero-tweaker/)
   - Lively [(link)](https://rocksdanister.github.io/lively/)
-  - PowerToys [(link)])(https://github.com/microsoft/PowerToys)
+  - PowerToys [(link))](https://github.com/microsoft/PowerToys)
 
 - ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing-1)
 
