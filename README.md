@@ -1,9 +1,9 @@
 # MossMans-Essential-Software-Guide (Windows)
 
-###### A collection of _some_ software I _personally_ tend to use regularly. This is meant to be used a a guide or a point of refference. Emphasis on the italicized words.
+A collection of _some_ software I _personally_ tend to use regularly. This is meant to be used a a guide or a point of refference. Emphasis on the italicized words.
 
 
-## Index:
+# Index:
 - ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnostics--monitoring-1)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
