@@ -126,3 +126,8 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 - ### [Tweaks](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#tweaks)
 
 ---
+---
+
+Attributions:
+
+* <a href="https://www.flaticon.com/free-icons/support" title="support icons">Support icons created by Freepik - Flaticon</a>
