@@ -63,7 +63,7 @@
 * [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   > Adds a customizable start menu, good if you want a little XP in your 10.
 
-* [WinAero Tweaker](WinAero [https://winaero.com/winaero-tweaker/)
+* [WinAero Tweaker](https://winaero.com/winaero-tweaker/)
   > Customize hidden things, nice QOL stuff right here.
 
 * [Lively](https://rocksdanister.github.io/lively/)
