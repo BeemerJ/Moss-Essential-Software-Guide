@@ -1,6 +1,6 @@
 
 > PROTIP:       Click on the list icon on the upper left corner of this document to see the index for this guide.
-Also, clicking on the "Headings" provide some info on the software listed.
+Also, clicking on "Headings" provide some info on the software listed.
 
 # Index:
 - ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#hardware-diagnostics--monitoring)
