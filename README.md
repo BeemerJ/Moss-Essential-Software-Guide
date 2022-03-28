@@ -2,7 +2,7 @@
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # Index:
-- ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#hardware-diagnostics--monitoring-1)
+- ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#hardware-diagnostics--monitoring)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
   - RTSS [(link)](https://www.guru3d.com/files/index.html)
@@ -11,7 +11,7 @@
   - GPU-Z [(link)](https://www.techpowerup.com/download/techpowerup-gpu-z/)
  
 
-- ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#firefox-browser-addonuserscripts-1)
+- ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#firefox-browser-addonuserscript)
 
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - KeepassXC-Browser [(link)](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -30,19 +30,19 @@
        - [Return YouTube Dislike](https://www.returnyoutubedislike.com/install)
 
 
-- ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#windows-interface-modification-1)
+- ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#windows-interface-modification)
 
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   - WinAero [(link)](https://winaero.com/winaero-tweaker/)
   - Lively [(link)](https://rocksdanister.github.io/lively/)
   - PowerToys [(link))](https://github.com/microsoft/PowerToys)
 
-- ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#desktop-capturing-1)
+- ### [Desktop Capturing](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#desktop-capturing)
 
   - Bandicam [(link)](https://www.bandicam.com/)
   - OBS Studio [(link)](https://obsproject.com/)
 
-- ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#media-player--streaming-et-al-1)
+- ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#media-player--streaming-et-al)
 
   - #### Players
     
@@ -63,19 +63,19 @@
     - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
-- ### [Download](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#download-1)
+- ### [Download](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#download)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
   - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
   - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
 
-- ### [Security](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#security-1)
+- ### [Security](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#security)
 
   - KeePassXC (Password Manager) [(link)](https://keepassxc.org/download/)
   - Tron (Batch "Maintanance" Scripts) [(link)](https://old.reddit.com/r/TronScript/)
 
-- ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#editing--creative-1)
+- ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#editing--creative)
 
   - #### Visual
     
@@ -103,23 +103,23 @@
     
     - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
 
-- ### [Communication](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#communication-1)
+- ### [Communication](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#communication)
 
   - Discord Canary [(link)](https://discord.com/api/download/canary?platform=win)
   - Thunderbird (Email Client) [(link)](https://www.thunderbird.net/en-US/)
   - Whatsapp Desktop [(link)](https://www.whatsapp.com/download)
   - Signal Desktop [(link)](https://signal.org/en/download/)
 
-- ### [Driver / Runtime](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#driver--runtime-1)
+- ### [Driver / Runtime](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#driver--runtime)
 
   - Visual C++ Runtimes All-in-One [(link)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   - DirectX Runtimes Offline Installer [(link)](https://www.techpowerup.com/download/directx-redistributable-runtime/)
   - NVCleanInstall (Nvidia Driver Cleaner) [(link)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
   - Liberica JDK (Java Runtime) [(link)](https://bell-sw.com/pages/downloads/)
 
-- ### [Miscelanneous](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#miscelanneous-1)
+- ### [Miscelanneous](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#miscelanneous)
  
-- ### [Tweaks](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#tweaks-1)
+- ### [Tweaks](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#tweaks)
 
 ---
 ---
