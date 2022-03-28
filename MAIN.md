@@ -1,4 +1,6 @@
-**Hardware Diagnostics / Monitoring**
+# Mossmans Essential Software Guide
+
+## **Hardware Diagnostics / Monitoring**
 
 * [HWiNFO](https://www.hwinfo.com/download/)
   > Basically the WHOLE diagnostic/stat get-up. Pairs well with RTSS.
@@ -17,7 +19,7 @@
 
 ---
 
-**Firefox Browser (Addon/UserScript)**
+## **Firefox Browser (Addon/UserScript)**
 
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   > The only Adblock you'll really ever need.
@@ -56,7 +58,7 @@
 
 ---
 
-**Windows (Interface) Modification**
+## **Windows (Interface) Modification**
 
 * [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   > Adds a customizable start menu, good if you want a little XP in your 10.
@@ -72,7 +74,7 @@
 
 ---
 
-**Desktop Capturing**
+## **Desktop Capturing**
 
 * [Bandicam](https://www.bandicam.com/)
   > Just a simple capturer, if you don't like OBS. 
@@ -82,9 +84,9 @@
  
 --- 
 
-**Media Player / Streaming (et al.)**
+## **Media Player / Streaming (et al.)**
 
-* Players
+#### Players
   
   * [MPC-HC](https://github.com/clsid2/mpc-hc/releases/)
     > A very smooth and simple video player, forked and updated from the original.
@@ -101,7 +103,7 @@
   * [CDisplayEx](https://www.cdisplayex.com/downloads)
     > Your average run-of-the-mill comic book reader.
 
-* Streamers
+#### Streamers
   
   * [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop/releases)
     > A BitTorrent client that streams movies from your favourite torrent sites.
@@ -111,7 +113,7 @@
 
 ---
 
-**Download**
+## **Download**
 
 * [JDownloader 2](https://jdownloader.org/jdownloader2)
   > A regular download manager. (Not as nice as IDM tho.)
@@ -127,7 +129,7 @@
 
 ---
 
-**Security**
+## **Security**
 
 * [KeePassXC](https://keepassxc.org/download/)
   > A cool looking password vault.
@@ -137,9 +139,9 @@
 
 ---
 
-**Editing / Creative**
+## **Editing / Creative**
 
-*Visual
+#### Visual
     
   * [Libresprite](https://libresprite.github.io/#!/downloads)
     > Cute sprite editing software.
@@ -150,7 +152,7 @@
   * [MSPaint](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
     > bruh.
  
-*Office
+#### Office
     
   * [LibreOffice](https://www.libreoffice.org/download/download/)
     > Free alternative to Microsoft Office.
@@ -161,7 +163,7 @@
   * [Joplin](https://joplinapp.org/)
     > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.
  
-*Audio 
+#### Audio 
     
   * [Audacity](https://www.fosshub.com/Audacity-old.html)
     > Your basic audio editing software.
@@ -177,7 +179,7 @@
 
 ---
 
-**Communication**
+## **Communication**
 
 * [Discord Canary](https://discord.com/api/download/canary?platform=win)
   > Goes nicely with a side of [Powercord](https://powercord.dev/)
@@ -193,7 +195,7 @@
 
 ---
 
-**Driver / Runtime**
+## **Driver / Runtime**
 
 * [Visual C++ Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   > For lazy people who don't wanna download everything _individually_.
@@ -209,7 +211,7 @@
 
 ---
 
-**Miscelanneous**
+## **Miscelanneous**
 
 * [rclone](https://rclone.org/downloads/)
   > Useful app for [mounting your cloud storage as a drive on windows](https://github.com/Code-Moss/Rclone-Mounting-Template).
@@ -249,6 +251,6 @@
 
 ---
 
-**Tweaks**
+## **Tweaks**
 
 ---
