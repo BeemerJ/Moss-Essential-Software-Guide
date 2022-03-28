@@ -1,5 +1,7 @@
 # Mossmans Essential Software Guide
 
+---
+
 ## **Hardware Diagnostics / Monitoring**
 
 * [HWiNFO](https://www.hwinfo.com/download/)
