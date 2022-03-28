@@ -124,8 +124,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 - ### [Tweaks](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/README.md#tweaks-1)
 
 ---
+---
 
-## Hardware Diagnostics / Monitoring
+**Hardware Diagnostics / Monitoring**
 
 * [HWiNFO](https://www.hwinfo.com/download/)
   > Basically the WHOLE diagnostic/stat get-up. Pairs well with RTSS.
@@ -142,8 +143,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
   > Similar to CPU-Z, just for GPU stuff instead.
 
+---
 
-## Firefox Browser (Addon/UserScripts)
+**Firefox Browser (Addon/UserScript)**
 
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   > The only Adblock you'll really ever need.
@@ -180,8 +182,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
     - [Return YouTube Dislike](https://www.returnyoutubedislike.com/install)
       > Brings back the dislike button, RIP.
 
+---
 
-## Windows (Interface) Modification
+**Windows (Interface) Modification**
 
 * [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   > Adds a customizable start menu, good if you want a little XP in your 10.
@@ -195,7 +198,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [PowerToys](https://github.com/microsoft/PowerToys)
   > Nice productivity mods for windows.
 
-## Desktop Capturing
+---
+
+**Desktop Capturing**
 
 * [Bandicam](https://www.bandicam.com/)
   > Just a simple capturer, if you don't like OBS. 
@@ -203,10 +208,11 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [OBS Studio](https://obsproject.com/)
   > The all in one recording and broadcasting software that most people tend to use.
  
+--- 
 
-## Media Player / Streaming (et al.)
+**Media Player / Streaming (et al.)**
 
-* #### Players
+* Players
   
   * [MPC-HC](https://github.com/clsid2/mpc-hc/releases/)
     > A very smooth and simple video player, forked and updated from the original.
@@ -223,7 +229,7 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
   * [CDisplayEx](https://www.cdisplayex.com/downloads)
     > Your average run-of-the-mill comic book reader.
 
-* #### Streamers
+* Streamers
   
   * [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop/releases)
     > A BitTorrent client that streams movies from your favourite torrent sites.
@@ -231,8 +237,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
   * [YouTube Music](https://github.com/th-ch/youtube-music)
     > Regular YTM client with nice plugins.
 
+---
 
-## Download
+**Download**
 
 * [JDownloader 2](https://jdownloader.org/jdownloader2)
   > A regular download manager. (Not as nice as IDM tho.)
@@ -246,8 +253,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
   > Forked version of qBittorrent, smooth.
 
+---
 
-## Security
+**Security**
 
 * [KeePassXC](https://keepassxc.org/download/)
   > A cool looking password vault.
@@ -255,10 +263,11 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [Tron](https://old.reddit.com/r/TronScript/)
   > "A glorified collection of batch files that automate the process of cleaning up Windows systems".
 
+---
 
-## Editing / Creative
+**Editing / Creative**
 
-* #### Visual
+*Visual
     
   * [Libresprite](https://libresprite.github.io/#!/downloads)
     > Cute sprite editing software.
@@ -269,7 +278,7 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
   * [MSPaint](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
     > bruh.
  
-* #### Office
+*Office
     
   * [LibreOffice](https://www.libreoffice.org/download/download/)
     > Free alternative to Microsoft Office.
@@ -280,7 +289,7 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
   * [Joplin](https://joplinapp.org/)
     > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.
  
-* #### Audio 
+*Audio 
     
   * [Audacity](https://www.fosshub.com/Audacity-old.html)
     > Your basic audio editing software.
@@ -294,8 +303,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
   * [Mixxx](https://mixxx.org/download/)
     > Free DJ software. 'Nuff said.
 
+---
 
-## Communication
+**Communication**
 
 * [Discord Canary](https://discord.com/api/download/canary?platform=win)
   > Goes nicely with a side of [Powercord](https://powercord.dev/)
@@ -309,7 +319,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [Signal Desktop](https://signal.org/en/download/)
   > Wish my phone didn't need to be on though...
 
-## Driver / Runtime
+---
+
+**Driver / Runtime**
 
 * [Visual C++ Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   > For lazy people who don't wanna download everything _individually_.
@@ -323,8 +335,9 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [Liberica JDK](https://bell-sw.com/pages/downloads/)
   > Alternative to Oracles Java runtimes.
 
+---
 
-## Miscelanneous
+**Miscelanneous**
 
 * [rclone](https://rclone.org/downloads/)
   > Useful app for [mounting your cloud storage as a drive on windows](https://github.com/Code-Moss/Rclone-Mounting-Template).
@@ -362,4 +375,8 @@ A collection of _some_ software I _personally_ tend to use regularly. This is me
 * [FAT32 Format](https://www.majorgeeks.com/files/details/fat32format.html)
   > Handy tool for formatting things bigger than 32Gb, mostly used for older hardware like MP3 players.
 
-## Tweaks
+---
+
+**Tweaks**
+
+---
