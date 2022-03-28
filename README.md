@@ -1,5 +1,7 @@
 # MossMans-Essential-Software-Guide (Windows)
 
+> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+ 
 A collection of _some_ software I _personally_ tend to use regularly. This is meant to be used a a guide or a point of refference. Emphasis on the italicized words.
 
 
