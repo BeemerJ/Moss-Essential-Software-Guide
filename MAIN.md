@@ -261,4 +261,8 @@
 * Disable "Flash of unstyled content" [**Firefox**]
   > Follow the instructions listed [here](https://gist.github.com/Code-Moss/f6f5ad62ed7aea9eda1cf18aa778f51d)
 
+* Mount cloud services as a Drive [**Windows 10**]
+  > Follow the instructions listed [here](https://github.com/Code-Moss/Rclone-Mounting-Template)
+
+
 ---
