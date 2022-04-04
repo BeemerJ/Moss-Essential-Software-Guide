@@ -23,12 +23,10 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - Simple Translate [(link)](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)
   - Search by Image [(link)](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
   - Dark Reader [(link)](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-  - 
+  - Motrix WebExtension [(link)](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/)
   - Tampermonkey [(link)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) & Scripts...
  
        - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
-
-       - [Bandcamp Downloader](https://greasyfork.org/en/scripts/435824-bandcamp-downloader)
 
        - [Disable YouTube 60FPS (Force 30FPS)](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
        
@@ -71,6 +69,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 - ### [Download](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#download)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
+  - Motrix [(link)](https://motrix.app/)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
   - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
   - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
