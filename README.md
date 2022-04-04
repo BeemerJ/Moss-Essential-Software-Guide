@@ -99,7 +99,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
  
   - #### Audio
  
-    - Audacity [(link)](https://www.fosshub.com/Audacity-old.html)
+    - Audacity [(link)](https://www.audacityteam.org/download/)
     
     - Renoise (Music Tracker/DAW) [(link)](https://www.renoise.com/download)
     
