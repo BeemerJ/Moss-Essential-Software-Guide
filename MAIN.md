@@ -258,4 +258,7 @@
 
 ## **Tweaks**
 
+* Disable "Flash of unstyled content" [**Firefox**]
+  > Follow the instructions listed [here](https://gist.github.com/Code-Moss/f6f5ad62ed7aea9eda1cf18aa778f51d)
+
 ---
