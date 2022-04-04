@@ -41,6 +41,9 @@
 * [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   > Converts sites which don't have a dark mode to a nicer shade of black.
 
+* [Motrix WebExtension](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/)
+  > Needed to intercept links and send it to Motrix (a download manager we'll install in a bit).
+
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
   > Just the Userscript Manager I use.
   
@@ -48,9 +51,6 @@
     
     - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
       > Script that unlocks hidden Google Search results.
-
-    - [Bandcamp Downloader](https://greasyfork.org/en/scripts/435824-bandcamp-downloader)
-      > Support the artists!
 
     - [Disable YouTube 60FPS (Force 30FPS)](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
       > Lets you watch higher resolutions at a lower framerate to save some bandwidth.
@@ -119,6 +119,9 @@
 
 * [JDownloader 2](https://jdownloader.org/jdownloader2)
   > A regular download manager. (Not as nice as IDM tho.)
+
+* [Motrix](https://motrix.app/)
+  > Yet another download manager. (Yet again not as nice as IDM but still pretty nice.)
   
 * [Nicotine+](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
