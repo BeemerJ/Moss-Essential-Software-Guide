@@ -32,8 +32,8 @@
 * [h264ify](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   > "Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.
 
-* [S3Translator](https://addons.mozilla.org/en-US/firefox/addon/s3_translator/)
-  > A neat addon that can translate whole pages for you.
+* [Simple Translate](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)
+  > A neat addon that can translate for you.
 
 * [Search by Image](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
   > Pretty self-explanatory.
