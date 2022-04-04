@@ -20,9 +20,10 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - KeepassXC-Browser [(link)](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   - h264ify [(link)](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-  - S3Translator [(link)](https://addons.mozilla.org/en-US/firefox/addon/s3_translator/)
+  - Simple Translate [(link)](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)
   - Search by Image [(link)](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
   - Dark Reader [(link)](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+  - 
   - Tampermonkey [(link)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) & Scripts...
  
        - [Google Unlocked](https://github.com/Ibit-to/google-unlocked)
