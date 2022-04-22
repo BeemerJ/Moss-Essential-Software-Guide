@@ -1,5 +1,5 @@
 # Moss' Essential Software Guide
-
+## [Condensed List](README.md)
 ---
 
 ## **Hardware Diagnostics / Monitoring**
