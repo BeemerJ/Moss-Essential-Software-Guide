@@ -22,7 +22,7 @@
 ---
 
 ## **Firefox Browser (Addon/UserScript)**
-> _I personally use **LibreWolf**(https://librewolf.net/), but you can use whatever fork you like._
+> _I personally use [**LibreWolf**](https://librewolf.net/), but you can use whatever fork you like._
 
 * [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   > The only Adblock you'll really ever need. [_Filter Addons_](https://rentry.co/FilterStalker)
