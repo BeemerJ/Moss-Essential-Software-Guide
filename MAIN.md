@@ -8,7 +8,7 @@
   > Basically the WHOLE diagnostic/stat get-up. Pairs well with RTSS.
 
 * [**RTSS**](https://www.guru3d.com/files/index.html)
-  > Tool for showing live stats while in-game.[_Tutorial_](https://mybyways.com/blog/cpu-and-gpu-monitoring-overlay-for-gaming)
+  > Tool for showing live stats while in-game. [_Tutorial_](https://mybyways.com/blog/cpu-and-gpu-monitoring-overlay-for-gaming)
 
 * [**XMeters**](https://entropy6.com/xmeters/download/)
   > Nice for easily checking PC stats like CPU usage on the taskbar.
