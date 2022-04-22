@@ -1,4 +1,7 @@
 # Moss' Essential Software Guide
+
+<img src="assets/cover.png" alt="cover" width="360"/>
+
 ## [Condensed List](README.md)
 ---
 
