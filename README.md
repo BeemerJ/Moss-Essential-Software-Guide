@@ -2,7 +2,7 @@
 > PROTIP:       Click on the list icon on the upper left corner of this document to see the index for this guide.
 Also, clicking on a "Section Heading" will provide some info on the software listed.  
 
-<img src="assets/icon.png" alt="icon" width="100"/>
+<img src="assets/cover.png" alt="cover" width="360"/>
 
 # Index:
 ## [MAIN List](MAIN.md)
