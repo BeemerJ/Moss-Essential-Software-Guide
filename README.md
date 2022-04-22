@@ -1,10 +1,12 @@
 
 > PROTIP:       Click on the list icon on the upper left corner of this document to see the index for this guide.
-Also, clicking on a "Section Heading" will provide some info on the software listed.
+Also, clicking on a "Section Heading" will provide some info on the software listed.  
 
 <img src="assets/icon.png" alt="icon" width="100"/>
 
 # Index:
+## [MAIN List](MAIN.md)
+
 - ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#hardware-diagnostics--monitoring)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
@@ -30,6 +32,8 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
        - [Disable YouTube 60FPS (Force 30FPS)](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
        
        - [Return YouTube Dislike](https://www.returnyoutubedislike.com/install)
+
+       - [Instagram Download Button](https://github.com/y252328/Instagram_Download_Button)
 
 
 - ### [Windows (Interface) Modification](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#windows-interface-modification)
@@ -76,7 +80,10 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 - ### [Security](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#security)
 
   - KeePassXC (Password Manager) [(link)](https://keepassxc.org/download/)
+  - VirusTotal (Online File Scanner) [(link)](https://www.virustotal.com/gui/home/upload)
   - Tron (Batch "Maintanance" Scripts) [(link)](https://old.reddit.com/r/TronScript/)
+  - Have I Been Pwned (Online Breach Checker) [(link)](https://haveibeenpwned.com/)
+  - AccountKiller (Account Deleter) [(link)](https://www.accountkiller.com/en/home)
 
 - ### [Editing / Creative](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#editing--creative)
 
@@ -86,7 +93,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     
     - Paint.NET [(link)](https://www.getpaint.net/download.html)
     
-    - MSPaint ( you already know what it iss... ) [(link)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
+    - MSPaint ( _you already know what it isss..._ ) [(link)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
    
   - #### Office
     
@@ -94,7 +101,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     
     - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
 
-    - Joplin [(link)](https://joplinapp.org/)
+    - Joplin (Multiplatform Notes and Lists)[(link)](https://joplinapp.org/)
  
   - #### Audio
  
