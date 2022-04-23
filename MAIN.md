@@ -45,9 +45,6 @@
 * [**Dark Reader**](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   > Converts sites which don't have a dark mode to a nicer shade of black.
 
-* [**Motrix WebExtension**](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/)
-  > Needed to intercept links and send it to Motrix (a download manager we'll install in a bit).
-
 * [**Tampermonkey**](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
   > Just the Userscript Manager I use.
   
@@ -125,10 +122,7 @@
 ## **Download**
 
 * [**JDownloader 2**](https://jdownloader.org/jdownloader2)
-  > A regular download manager. (Not as nice as IDM tho.) [_Dark Theme_](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/) / [_Debloat_](https://rentry.org/jdownloader2)
-
-* [**Motrix**](https://motrix.app/)
-  > Yet another download manager. (Yet again not as nice as IDM but still pretty nice.) [_Extention_](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/)
+  > Your Good Old Download Manager. (Still not as nice as IDM tho.) [_Dark Theme_](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/) / [_Debloat_](https://rentry.org/jdownloader2)
   
 * [**Nicotine+**](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
