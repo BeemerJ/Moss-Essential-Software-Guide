@@ -62,9 +62,6 @@
     - [**Instagram Download Button**](https://github.com/y252328/Instagram_Download_Button)
       > All in the title.
 
-    - [**Youtube: Download Video**](https://greasyfork.org/en/scripts/404304-youtube-download-video)
-      > Adds a little Download button that redirects you to "[y2mate.com](https://www.y2mate.com/youtube/pMmTHvK3Xak)"
-
 ---
 
 ## **Windows (Interface) Modification**
