@@ -1,3 +1,4 @@
+# Moss' Essential Software Guide (Condensed List)
 
 > PROTIP:       Click on the list icon on the upper left corner of this document to see the index for this guide.
 Also, clicking on a "Section Heading" will provide some info on the software listed.  
