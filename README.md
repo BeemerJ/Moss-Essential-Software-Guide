@@ -4,7 +4,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
-[>>_MAIN List_<<](MAIN.md)
+[>>_to MAIN List_<<](MAIN.md)
 
 # Index:
 
