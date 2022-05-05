@@ -1,4 +1,4 @@
-# Moss' Essential Software Guide
+# Moss' Essential Software Guide (MAIN List)
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
