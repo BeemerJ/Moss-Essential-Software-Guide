@@ -5,7 +5,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 <img src="assets/cover.png" alt="cover" width="360"/>
 
 # Index:
-## [MAIN List](MAIN.md)
+## [>>MAIN List<<](MAIN.md)
 
 - ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#hardware-diagnostics--monitoring)
 
