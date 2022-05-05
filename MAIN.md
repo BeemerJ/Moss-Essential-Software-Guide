@@ -269,19 +269,23 @@
 
 ## **Tweaks**
 
-* Disable "Flash of unstyled content" [**Firefox**]
-  > * Follow the instructions listed [**here**](https://gist.github.com/Code-Moss/f6f5ad62ed7aea9eda1cf18aa778f51d).
+* Disable "Flash of unstyled content" [**Firefox**]  
+      - Follow the instructions listed [**here**](https://gist.github.com/Code-Moss/f6f5ad62ed7aea9eda1cf18aa778f51d).
 
-* Mount cloud services as a Drive [**Windows**]
-  > * Follow the instructions listed [**here**](https://github.com/Code-Moss/Rclone-Mounting-Template).
+* Mount cloud services as a Drive [**Windows**]  
+      - Follow the instructions listed [**here**](https://github.com/Code-Moss/Rclone-Mounting-Template).
 
-* Automatically give SuperF4 UAC privelages on startup [**Windows**]
-  > * Save [**Auto Elevate SuperF4.xml**](https://raw.githubusercontent.com/Code-Moss/Moss-Essential-Software-Guide/Windows/resources/Auto%20Elevate%20SuperF4.xml) to anywhere in your Desktop.  
-  > * Open the ["Task Scheduler"](https://en.wikipedia.org/wiki/Windows_Task_Scheduler).  
-  > * On the right pane, under "Task Scheduler Library", create **_New Folder..._** and name it to "Auto UAC Elevation".  
-  > * Select your newly created folder from the left pane.  
-  > * On the right pane, select **_Import Task..._** and select your downloaded **Auto Elevate SuperF4.xml**.  
-  > * Click **OK**  
-
+<details>
+<summary>Automatically give SuperF4 UAC privelages on startup [<b>Windows</b>]</summary>
+<br>
+<ol>
+ <li>Save <a href="https://raw.githubusercontent.com/Code-Moss/Moss-Essential-Software-Guide/Windows/resource/Auto%20Elevate%20SuperF4.xml">"Auto Elevate SuperF4.xml"</a> to anywhere in your Desktop.  
+ <li>Open the <a href="https://en.wikipedia.org/wiki/Windows_Task_Scheduler">"Task Scheduler".</a>
+ <li>On the right pane, under "Task Scheduler Library", create <b><i>New Folder...</i></b> and name it to "Auto UAC Elevation".
+ <li>Select your newly created folder from the left pane.
+ <li>On the right pane, select <b><i>Import Task...</i></b> and select your downloaded <b>Auto Elevate SuperF4.xml</b>.
+ <li>Click <b>OK</b>*.
+</ol>
+</details>
 
 ---
