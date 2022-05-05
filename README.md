@@ -7,6 +7,8 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 [>>_to MAIN List_<<](MAIN.md)
 
+---
+
 - ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/MAIN.md#hardware-diagnostics--monitoring)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
