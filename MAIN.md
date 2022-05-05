@@ -276,12 +276,12 @@
   > Follow the instructions listed [**here**](https://github.com/Code-Moss/Rclone-Mounting-Template).
 
 * Automatically give SuperF4 UAC privelages on startup [**Windows**]
-  > Save [**Auto Elevate SuperF4.xml**](https://raw.githubusercontent.com/Code-Moss/Moss-Essential-Software-Guide/Windows/resources/Auto%20Elevate%20SuperF4.xml) to anywhere in your Desktop.
-  > Open the ["Task Scheduler"](https://en.wikipedia.org/wiki/Windows_Task_Scheduler).
-  > On the right pane, under "Task Scheduler Library", create **_New Folder..._** and name it to "Auto UAC Elevation".
-  > Select your newly created folder from the left pane.
-  > On the right pane, select **_Import Task..._** and select your downloaded **Auto Elevate SuperF4.xml**.
-  > Click **OK**
+  > Save [**Auto Elevate SuperF4.xml**](https://raw.githubusercontent.com/Code-Moss/Moss-Essential-Software-Guide/Windows/resources/Auto%20Elevate%20SuperF4.xml) to anywhere in your Desktop.  
+  > Open the ["Task Scheduler"](https://en.wikipedia.org/wiki/Windows_Task_Scheduler).  
+  > On the right pane, under "Task Scheduler Library", create **_New Folder..._** and name it to "Auto UAC Elevation".  
+  > Select your newly created folder from the left pane.  
+  > On the right pane, select **_Import Task..._** and select your downloaded **Auto Elevate SuperF4.xml**.  
+  > Click **OK**  
 
 
 ---
