@@ -3,6 +3,7 @@
 Also, clicking on a "Section Heading" will provide some info on the software listed.  
 
 <img src="assets/cover.png" alt="cover" width="360"/>
+
 ## [>>MAIN List<<](MAIN.md)
 
 # Index:
