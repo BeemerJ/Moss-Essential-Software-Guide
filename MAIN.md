@@ -245,7 +245,7 @@
   > The FASTEST Disk Space Analyzer.
 
 * [**WizFile**](https://antibody-software.com/wizfile/download)
-  > An extremely fast file finder.
+  > The FASTEST File Finder... Analyzer.
 
 * [**USB Device Tree Viewer**](https://www.uwe-sieber.de/usbtreeview_e.html#download)
   > Tool for diagnosing usb ports.
@@ -257,7 +257,7 @@
   > Simple and fast flashing tool.
 
 * [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files)
-  > Mod manager for most of Bethesdas Gamebryo / Creation Engine games.
+  > Mod manager for most of Bethesda's Gamebryo / Creation Engine games.
 
 * [**Oracle VM VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
   > My preffered virtual machine software
