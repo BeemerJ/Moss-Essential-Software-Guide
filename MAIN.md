@@ -227,6 +227,22 @@
 
 ---
 
+## **Emulators**
+
+* [**Android** - NoxPlayer](https://www.bignox.com/)
+  > Android Emulator that needs [debloating](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29).
+
+* [**RetroArch**](https://www.retroarch.com/?page=platforms)
+  > Multiplatform Emulator hub, nice and central with easy [achievement](https://retroachievements.org/) support.
+
+* [**GBA** - mGBA](https://mgba.io/)
+  > It's just good lol.
+
+* [**DOS** - DOSBox-X](https://dosbox-x.com/)
+  > Easier to run DOS files through the context menu with this app.
+
+---
+
 ## **Miscelanneous**
 
 * [**rclone**](https://rclone.org/downloads/)
