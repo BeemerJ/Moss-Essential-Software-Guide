@@ -10,9 +10,9 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 ## App Repositories
 
-  - [**Aurora Store**](https://auroraoss.com/)
+  - [**AuroraStore**](https://auroraoss.com/)
     > Google Play without the Google.
-  - [**F-Droid**](https://f-droid.org/)
+  - [**AuroraDroid**](https://auroraoss.com/)(Fork of [**F-Droid**](https://f-droid.org/))
     > "Repository for free and open source Android apps".
  
 ## Social
@@ -21,16 +21,16 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     > _but all his homies where on whatsapp..._
   
   - [**WhatsApp**](https://play.google.com/store/apps/details?id=com.whatsapp)
-    > 'Coz you aren't getting any pussy on Signal.
+    > 'Coz you ain't getting no bitches on Signal.
 
   - [**Infinity**](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)
     > Reddit without the Reddit. No account needed.
 
   - [**Barinsta**](https://f-droid.org/en/packages/me.austinhuang.instagrabber/)
-    > Insta client that I'm sure made FB hate me.
+    > Instagram client that I'm sure made FB hate me.
 
   - [**Fritter**](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
-    > Use this if you hate people but you also hate getting official apps.
+    > Twitter, Use this if you hate people but you also hate getting official apps.
 
 ## Media
 
@@ -50,13 +50,16 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - [**Seeker**](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
     > "An unofficial soulseek client".
 
+  - [**CloudStream-3**](https://github.com/LagradOst/CloudStream-3)
+    > Movie Magic.
+
 ## Security
 
   - [**AFWall**+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
     > Android Firewall App.
   
   - [**Aegis**](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)
-    > 2FA.
+    > 2FA Authenticator, the best one.
 
   - [**KeePassDX**](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
     > Password Manager.
@@ -67,7 +70,6 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     > The best rooting app out there...  
     
     **Modules**:
-      * Disable screenshot and camera sounds
       * Energized Protection
       * F-Droid Privileged Extension
       * MIUI 10 Sound Pack
