@@ -275,8 +275,8 @@
 * Mount cloud services as a Drive [**Windows**]  
       - Follow the instructions listed [**here**](https://github.com/Code-Moss/Rclone-Mounting-Template).
 
+* Automatically give SuperF4 UAC privelages on startup [**Windows**]  
 <details>
-<summary>Automatically give SuperF4 UAC privelages on startup [<b>Windows</b>]</summary>
 <br>
 <ol>
  <li>Save <a href="https://raw.githubusercontent.com/Code-Moss/Moss-Essential-Software-Guide/Windows/resource/Auto%20Elevate%20SuperF4.xml">"Auto Elevate SuperF4.xml"</a> to anywhere in your Desktop.  
