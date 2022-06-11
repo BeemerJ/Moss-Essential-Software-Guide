@@ -295,7 +295,7 @@
 <details>
 <br>
 <ol>
- <li>Save <a href="https://raw.githubusercontent.com/Code-Moss/Moss-Essential-Software-Guide/Windows/resource/Auto%20Elevate%20SuperF4.xml">"Auto Elevate SuperF4.xml"</a> to anywhere in your Desktop.  
+ <li>Save <a href="https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/resources/Auto%20Elevate%20SuperF4.xml">"Auto Elevate SuperF4.xml"</a> to anywhere in your Desktop.  
  <li>Open the <a href="https://en.wikipedia.org/wiki/Windows_Task_Scheduler">"Task Scheduler".</a>
  <li>On the right pane, under "Task Scheduler Library", create <b><i>New Folder...</i></b> and name it to "Auto UAC Elevation".
  <li>Select your newly created folder from the left pane.
