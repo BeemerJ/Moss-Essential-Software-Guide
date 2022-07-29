@@ -292,6 +292,6 @@
       - Follow the instructions listed [**here**](https://github.com/Code-Moss/Rclone-Mounting-Template).
 
 * Automatically give SuperF4 UAC privelages on startup [**Windows**]  
-      - Follow the instructions listed [**here**](https://gist.github.com/Code-Moss/27aacadc6b1dc87f67c1d528e70574dd).
-
+      - Follow the instructions listed [**here**](https://gist.github.com/Code-Moss/27aacadc6b1dc87f67c1d528e70574dd).  
+      - **Make sure SuperF4 is not set to open on Startup.**
 ---
