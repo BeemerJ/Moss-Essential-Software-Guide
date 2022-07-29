@@ -9,7 +9,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 ---
 
-- ### [Hardware Diagnostics / Monitoring](MAIN.md#hardware-diagnostics--monitoring)
+- ### [Hardware Diagnostics / Monitoring](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#hardware-diagnostics--monitoring)
 
   - HWiNFO [(link)](https://www.hwinfo.com/download/)
   - RTSS [(link)](https://www.guru3d.com/files/index.html)
@@ -18,7 +18,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - GPU-Z [(link)](https://www.techpowerup.com/download/techpowerup-gpu-z/)
  
 
-- ### [Firefox Browser (Addon/UserScripts)](MAIN.md#firefox-browser-addonuserscript)
+- ### [Firefox Browser (Addon/UserScripts)](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#firefox-browser-addonuserscript)
 
   - uBlock Origin [(link)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - KeepassXC-Browser [(link)](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
@@ -37,19 +37,19 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
        - [Instagram Download Button](https://github.com/y252328/Instagram_Download_Button)
 
 
-- ### [Windows (Interface) Modification](MAIN.md#windows-interface-modification)
+- ### [Windows (Interface) Modification](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#windows-interface-modification)
 
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   - WinAero [(link)](https://winaero.com/winaero-tweaker/)
   - Lively [(link)](https://rocksdanister.github.io/lively/)
   - PowerToys [(link))](https://github.com/microsoft/PowerToys)
 
-- ### [Desktop Capturing](MAIN.md#desktop-capturing)
+- ### [Desktop Capturing](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#desktop-capturing)
 
   - Bandicam [(link)](https://www.bandicam.com/)
   - OBS Studio [(link)](https://obsproject.com/)
 
-- ### [Media Player / Streaming (et al.)](MAIN.md#media-player--streaming-et-al)
+- ### [Media Player / Streaming (et al.)](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#media-player--streaming-et-al)
 
   - #### Players
     
@@ -70,14 +70,14 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     - YouTube Music [(link)](https://github.com/th-ch/youtube-music)
 
 
-- ### [Download](MAIN.md#download)
+- ### [Download](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#download)
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
   - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
   - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
 
-- ### [Security](MAIN.md#security)
+- ### [Security](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#security)
 
   - KeePassXC (Password Manager) [(link)](https://keepassxc.org/download/)
   - VirusTotal (Online File Scanner) [(link)](https://www.virustotal.com/gui/home/upload)
@@ -85,7 +85,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - Have I Been Pwned (Online Breach Checker) [(link)](https://haveibeenpwned.com/)
   - AccountKiller (Account Deleter) [(link)](https://www.accountkiller.com/en/home)
 
-- ### [Editing / Creative](MAIN.md#editing--creative)
+- ### [Editing / Creative](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#editing--creative)
 
   - #### Visual
     
@@ -113,30 +113,30 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     
     - Mixxx (Virtual DJ Software) [(link)](https://mixxx.org/download/)
 
-- ### [Communication](MAIN.md#communication)
+- ### [Communication](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#communication)
 
   - Discord Canary [(link)](https://discord.com/api/download/canary?platform=win)
   - Thunderbird (Email Client) [(link)](https://www.thunderbird.net/en-US/)
   - Whatsapp Desktop [(link)](https://www.whatsapp.com/download)
   - Signal Desktop [(link)](https://signal.org/en/download/)
 
-- ### [Driver / Runtime](MAIN.md#driver--runtime)
+- ### [Driver / Runtime](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#driver--runtime)
 
   - Visual C++ Runtimes All-in-One [(link)](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   - DirectX Runtimes Offline Installer [(link)](https://www.techpowerup.com/download/directx-redistributable-runtime/)
   - NVCleanInstall (Nvidia Driver Cleaner) [(link)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
   - Liberica JDK (Java Runtime) [(link)](https://bell-sw.com/pages/downloads/)
 
-- ### [Emulators](MAIN.md#emulators)
+- ### [Emulators](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#emulators)
 
   - NoxPlayer (Android) [(link)](https://www.bignox.com/)
   - RetroArch (Multiplatform) [(link)](https://www.retroarch.com/?page=platforms)
   - mGBA (GBA) [(link)](https://mgba.io/)
   - DOSBox-X (DOS) [(link)](https://dosbox-x.com/)
 
-- ### [Miscelanneous](blob/Windows/MAIN.md#miscelanneous)
+- ### [Miscelanneous](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#miscelanneous)
  
-- ### [Tweaks](MAIN.md#tweaks)
+- ### [Tweaks](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#tweaks)
 
 ---
 ---
