@@ -134,7 +134,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - mGBA (GBA) [(link)](https://mgba.io/)
   - DOSBox-X (DOS) [(link)](https://dosbox-x.com/)
 
-- ### [Miscelanneous](Windows/MAIN.md#miscelanneous)
+- ### [Miscelanneous](/Windows/MAIN.md#miscelanneous)
  
 - ### [Tweaks](MAIN.md#tweaks)
 
