@@ -2,7 +2,7 @@
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
-[>>_to Condensed List_<<](README.md)
+[>>_to Condensed List_ (currently not working lmao)<<](README.md)
 
 ---
 
