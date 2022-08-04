@@ -12,7 +12,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - [**AuroraStore**](https://auroraoss.com/)
     > Google Play without the Google.
-  - [**AuroraDroid**](https://auroraoss.com/)(Fork of [**F-Droid**](https://f-droid.org/))
+  - [**AuroraDroid**](https://auroraoss.com/) _(Fork of_ [_**F-Droid**_](https://f-droid.org/))
     > "Repository for free and open source Android apps".
  
 ## Social
