@@ -41,7 +41,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     > YouTube client with many more features except Account support though, so everything should be imported.
 
   - [**YouTube Vanced / YouTube Music Vanced**](https://www.apkmirror.com/apk/team-vanced/vanced-manager/vanced-manager-2-6-2-crimson-release/)
-    > RIP...  
+    > RIP...  Keep your eye out on [_ReVanced_](https://github.com/revanced)  
     > ⚠️ Once you install YouTube + YT Music, you can remove the manager since it won't update anymore.
 
   - [**AntennaPod**](https://f-droid.org/en/packages/de.danoeh.antennapod/)
