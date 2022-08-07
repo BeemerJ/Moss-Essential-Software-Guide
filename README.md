@@ -12,6 +12,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - [**AuroraStore**](https://auroraoss.com/)
     > Google Play without the Google.
+
   - [**AuroraDroid**](https://auroraoss.com/) _(Fork of_ [_**F-Droid**_](https://f-droid.org/))
     > "Repository for free and open source Android apps".
  
@@ -22,6 +23,9 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   
   - [**WhatsApp**](https://play.google.com/store/apps/details?id=com.whatsapp)
     > 'Coz you ain't getting no bitches on Signal.
+
+  - [**Telegram X**](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
+    > MASSIVE DOWNLOADS.
 
   - [**Infinity**](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)
     > Reddit without the Reddit. No account needed.
