@@ -89,6 +89,9 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 ## Other Apps
 
+  - [**Amaze File Manager**](https://play.google.com/store/apps/details?id=com.amaze.filemanager) [File Management]
+    > It's just nice, also, archiving capabilities.
+
   - [**Bromite**](https://www.bromite.org/) [Browser]
     > Don't forget, this has UserScript support.
 
@@ -118,9 +121,6 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - [**QR Scanner**](https://f-droid.org/en/packages/com.secuso.privacyFriendlyCodeScanner/) [QR Code Scanner]
     > Put the Scanner on the QR.
-
-  - [**ZArchiver**](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) [File Management]
-    > Archives all types of Z's.
 
 ---
 ---
