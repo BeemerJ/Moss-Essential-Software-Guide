@@ -108,6 +108,9 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - [**Pano Scrobbler**](https://play.google.com/store/apps/details?id=com.arn.scrobble) [Scrobbler]
     > Tracks my music to [Last.fm](https://www.last.fm/).
+    
+  - [**PowerTube**](https://github.com/razar-dev/PowerTube) [Downloader]
+    > [youtube-dl](https://github.com/ytdl-org/youtube-dl/) Client for Android, very clean UI.
 
   - [**QR Scanner**](https://f-droid.org/en/packages/com.secuso.privacyFriendlyCodeScanner/) [QR Code Scanner]
     > Put the Scanner on the QR.
