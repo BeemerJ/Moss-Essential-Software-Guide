@@ -168,7 +168,7 @@
   * [**MSPaint**](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
     > bruh.
  
-#### Office
+#### Office / Development
     
   * [**LibreOffice**](https://www.libreoffice.org/download/download/)
     > Free alternative to Microsoft Office.
@@ -178,7 +178,10 @@
 
   * [**Joplin**](https://joplinapp.org/)
     > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.
- 
+
+  * [**HxD**](https://mh-nexus.de/en/hxd/)
+    > Your friendly neighbourhood Hex Editor.
+
 #### Audio 
     
   * [**Audacity**](https://www.audacityteam.org/download/)
