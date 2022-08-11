@@ -95,13 +95,15 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     
     - MSPaint ( _you already know what it isss..._ ) [(link)](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
    
-  - #### Office
+  - #### Office / Development
     
     - LibreOffice [(link)](https://www.libreoffice.org/download/download/)
     
     - Notepad++ [(link)](https://notepad-plus-plus.org/downloads/)
 
-    - Joplin (Multiplatform Notes and Lists)[(link)](https://joplinapp.org/)
+    - Joplin (Multiplatform Notes and Lists) [(link)](https://joplinapp.org/)
+    
+    - HxD (Hex Editor) [(link)](https://mh-nexus.de/en/hxd/)
  
   - #### Audio
  
