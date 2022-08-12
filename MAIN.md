@@ -201,7 +201,7 @@
 ## **Communication**
 
 * [**Discord Canary**](https://discord.com/api/download/canary?platform=win)
-  > Goes nicely with a side of [Powercord](https://powercord.dev/) + [Plugins]().
+  > Goes nicely with a side of [Replugged](https://github.com/replugged-org/replugged) + [Plugins]().
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
