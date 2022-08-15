@@ -201,7 +201,7 @@
 ## **Communication**
 
 * [**Discord Canary**](https://discord.com/api/download/canary?platform=win)
-  > Goes nicely with a side of [Replugged](https://github.com/replugged-org/replugged) + [Plugins]().
+  > Goes nicely with a side of [Replugged](https://github.com/replugged-org/replugged) + [Plugins](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md).
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
