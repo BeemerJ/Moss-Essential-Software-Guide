@@ -119,8 +119,8 @@
   - [**Librera Reader**](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) [Doc. Reader]
     > It works...sometimes?
 
-  - [**Maps**](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) [Maps]
-    > It's fucking Maps bro, what more do you want?
+  - [**Magic Earth**](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth) [Maps]
+    > It's fucking KEVIN bro, alles alright by die huis?
 
   - [**Pano Scrobbler**](https://play.google.com/store/apps/details?id=com.arn.scrobble) [Scrobbler]
     > Tracks my music to [Last.fm](https://www.last.fm/).
