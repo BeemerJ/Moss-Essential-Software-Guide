@@ -56,6 +56,9 @@
   - [**AntennaPod**](https://f-droid.org/en/packages/de.danoeh.antennapod/)
     > "Podcast manager and player".
 
+  - [**Tachiyomi**](https://tachiyomi.org/download/)
+    >I do it for the bitches.
+
   - [**Seeker**](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
     > "An unofficial soulseek client".
 
