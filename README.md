@@ -6,7 +6,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
-> ⚠️ Tested on LineageOS 14.1, on a 2015 Huawei P8 Lite with no Google Framework. Rooted with [**Magisk**](https://magiskmanager.com/).
+> ⚠️ Tested on LineageOS 14.1, on a 2015 Huawei P8 Lite with no Google Framework. Flashed with [**TWRP**](https://twrp.me/) and Rooted with [**Magisk**](https://magiskmanager.com/).
 
 ## App Repositories
 
@@ -17,6 +17,9 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
     > "Repository for free and open source Android apps".
  
 ## Social
+
+  - [**K-9 Mail**](https://f-droid.org/packages/com.fsck.k9/)
+    > P O W E R E D - B Y - T H U N D E R B I R D !!!
 
   - [**Signal**](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
     > _but all his homies where on whatsapp..._
@@ -35,6 +38,9 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - [**Fritter**](https://f-droid.org/en/packages/com.jonjomckay.fritter/)
     > Twitter, Use this if you hate people but you also hate getting official apps.
+    
+  - [**Facebook (via Surfable)**](https://surfable.app/pwa/com.facebook.katana/)
+    > Strictly for lizard-wizard purposes.
 
 ## Media
 
@@ -56,6 +62,10 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - [**CloudStream-3**](https://github.com/LagradOst/CloudStream-3)
     > Movie Magic.
+    
+  - [**Xtra**](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
+    > I don't like Twitch...this helps.
+  
 
 ## Security
 
@@ -77,15 +87,12 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
       * Energized Protection
       * F-Droid Privileged Extension
       * MIUI 10 Sound Pack
+
+  - [**OpenBoard**](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin/)
+    > Just prefferance really. Not to be confused with OpenBoard.
     
-  - [**SD Maid**](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
-    > "SD Maid will help you keep your device clean and tidy!"
-
-  - [**Greenify**](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)
-    > App hibernater, thing..?
-
-  - [**Microsoft SwiftKey Keyboard**](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
-    > Just prefferance really.
+  - [**Termux**](https://f-droid.org/en/packages/com.termux/)
+    > Terminal emulation with an extensive Linux package collection... for neeerrrrds!
 
 ## Other Apps
 
