@@ -47,7 +47,7 @@
     > Nice features, and plays about everything you throw at it.
 
   - [**NewPipe**](https://f-droid.org/en/packages/org.schabi.newpipe/)
-    > YouTube client with many more features except Account support though, so everything should be imported. No crazy uncle Algorithm tho. 
+    > YouTube client with many features except Account support though, so everything should be imported. No crazy uncle Algorithm tho. 
 
   - [**YouTube Vanced / YouTube Music Vanced**](https://www.apkmirror.com/apk/team-vanced/vanced-manager/vanced-manager-2-6-2-crimson-release/)
     > RIP...  Keep your eye out on [_ReVanced_](https://github.com/revanced)  
