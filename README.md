@@ -120,7 +120,7 @@
     > It works...sometimes?
 
   - [**Magic Earth**](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth) [Maps]
-    > It's fucking KEVIN bro! Is alles oraait byrie hys?
+    > HORS IT'S FUCKING KEVIN YOU NAAI! Is alles oraait byrie hys?
 
   - [**Pano Scrobbler**](https://play.google.com/store/apps/details?id=com.arn.scrobble) [Scrobbler]
     > Tracks my music to [Last.fm](https://www.last.fm/).
