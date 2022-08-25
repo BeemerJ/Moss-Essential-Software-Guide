@@ -5,7 +5,7 @@
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
-> ⚠️ Tested on LineageOS 14.1, on a 2015 Huawei P8 Lite with no Google Framework. Flashed with [**TWRP**](https://twrp.me/) and Rooted with [**Magisk**](https://magiskmanager.com/).
+> ⚠️ Tested on a LineageOS for microG [**A3 2016**](https://www.gsmarena.com/samsung_galaxy_a3_(2016)-7791.php). Flashed with [**TWRP**](https://twrp.me/) and Rooted with [**Magisk**](https://magiskmanager.com/).
 
 ## App Repositories
 
