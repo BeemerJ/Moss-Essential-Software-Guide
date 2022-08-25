@@ -101,6 +101,9 @@
   - [**Amaze File Manager**](https://play.google.com/store/apps/details?id=com.amaze.filemanager) [File Management]
     > It's just nice, also, archiving capabilities.
 
+  - [**Amaze File Utilities**](tba)
+    > tba.
+
   - [**Bromite**](https://www.bromite.org/) [Browser]
     > Don't forget, this has UserScript support.
 
@@ -112,6 +115,9 @@
 
   - [**Discreet Launcher**](https://f-droid.org/en/packages/com.vincent_falzon.discreetlauncher/) [Home Screen]
     > _Minimalism_.
+
+  - [**Drive**](tba)
+    > Googli.
 
   - [**Joplin**](https://f-droid.org/en/packages/net.cozic.joplin/) [Lists and Notes]
     > Nice for Cross Platform To-Do lists.
