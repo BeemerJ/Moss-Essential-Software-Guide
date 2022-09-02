@@ -18,7 +18,7 @@
 ## Social
 
   - [**K-9 Mail**](https://f-droid.org/packages/com.fsck.k9/)
-    > P O W E R E D - B Y - T H U N D E R B I R D !!!
+    > P O W E R E D - B Y - T H U N D E R B Y I R D !!!
 
   - [**Signal**](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
     > _but all his homies where on whatsapp..._
@@ -40,6 +40,9 @@
     
   - [**Facebook (via Surfable)**](https://surfable.app/pwa/com.facebook.katana/)
     > Strictly for lizard-wizard purposes.
+
+  - [**FluffyChat**](https://f-droid.org/packages/chat.fluffy.fluffychat/)
+    > Better than [_SchildiChat_](https://f-droid.org/packages/de.spiritcroc.riotx/).
 
 ## Media
 
@@ -101,8 +104,8 @@
   - [**Amaze File Manager**](https://play.google.com/store/apps/details?id=com.amaze.filemanager) [File Management]
     > It's just nice, also, archiving capabilities.
 
-  - [**Amaze File Utilities**](tba)
-    > tba.
+  - [**Amaze File Utilities**](https://play.google.com/store/apps/details?id=com.amaze.fileutilities) [File Management / Analysis]
+    > "An all in one app to view, manage and analyse internal storage media files".
 
   - [**Bromite**](https://www.bromite.org/) [Browser]
     > Don't forget, this has UserScript support.
@@ -126,7 +129,7 @@
     > It works...sometimes?
 
   - [**Magic Earth**](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth) [Maps]
-    > HORS IT'S FUCKING KEVIN YOU NAAI! Is alles oraait byrie hys?
+    > Wayyy too good Maps App.
 
   - [**Pano Scrobbler**](https://play.google.com/store/apps/details?id=com.arn.scrobble) [Scrobbler]
     > Tracks my music to [Last.fm](https://www.last.fm/).
