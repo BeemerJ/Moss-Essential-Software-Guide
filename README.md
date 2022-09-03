@@ -74,7 +74,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
   - JDownloader 2 [(link)](https://jdownloader.org/jdownloader2)
   - Nicotine+ (P2P Music) [(link)](https://nicotine-plus.org/)
-  - YouTube-DLG [(link)](http://mrs0m30n3.github.io/youtube-dl-gui/)
+  - YouTube-DLG [(link)](https://oleksis.github.io/youtube-dl-gui/)
   - qBittorrent Enhanced [(link)](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
 
 - ### [Security](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#security)
