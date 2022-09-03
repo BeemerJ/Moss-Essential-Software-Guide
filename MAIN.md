@@ -128,7 +128,7 @@
 * [**Nicotine+**](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
-* [**YouTube-DLG**](http://mrs0m30n3.github.io/youtube-dl-gui/)
+* [**YouTube-DLG**](https://oleksis.github.io/youtube-dl-gui/)
   > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
   
 * [**qBittorrent Enhanced**](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
