@@ -65,7 +65,7 @@
   - [**Seeker**](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
     > "An unofficial soulseek client".
 
-  - [**CloudStream-3**](https://github.com/LagradOst/CloudStream-3)
+  - [**CloudStream-3**](https://recloudstream.github.io/)
     > Movie Magic.
     
   - [**Xtra**](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
