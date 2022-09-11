@@ -101,12 +101,6 @@
 
 ## Other Apps
 
-  - [**Amaze File Manager**](https://play.google.com/store/apps/details?id=com.amaze.filemanager) [File Management]
-    > It's just nice, also, archiving capabilities.
-
-  - [**Amaze File Utilities**](https://play.google.com/store/apps/details?id=com.amaze.fileutilities) [File Management / Analysis]
-    > "An all in one app to view, manage and analyse internal storage media files".
-
   - [**Bromite**](https://www.bromite.org/) [Browser]
     > Don't forget, this has UserScript support.
 
