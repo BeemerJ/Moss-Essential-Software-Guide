@@ -117,7 +117,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
 
 - ### [Communication](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#communication)
 
-  - Discord [(link)](https://discord.com/api/download/)
+  - Discord [(link)](https://discord.com/download)
   - Thunderbird (Email Client) [(link)](https://www.thunderbird.net/en-US/)
   - Whatsapp Desktop [(link)](https://www.whatsapp.com/download)
   - Signal Desktop [(link)](https://signal.org/en/download/)
