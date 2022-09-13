@@ -42,7 +42,7 @@ Also, clicking on a "Section Heading" will provide some info on the software lis
   - OpenShell [(link)](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   - WinAero [(link)](https://winaero.com/winaero-tweaker/)
   - Lively [(link)](https://rocksdanister.github.io/lively/)
-  - PowerToys [(link))](https://github.com/microsoft/PowerToys)
+  - PowerToys [(link)](https://github.com/microsoft/PowerToys)
 
 - ### [Desktop Capturing](https://github.com/Code-Moss/Moss-Essential-Software-Guide/blob/Windows/MAIN.md#desktop-capturing)
 
