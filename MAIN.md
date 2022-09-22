@@ -2,7 +2,7 @@
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
-<sub><sup>// = Programs I reccomend, but don't use anymore.</sub></sup>
+<sub><sup>// Programs I reccomend, but don't use anymore.</sub></sup>
 
 ---
 
