@@ -2,7 +2,7 @@
 
 <img src="assets/cover.png" alt="cover" width="360"/>
 
-[>>_to Condensed List_<<](README.md)
+<sub><sup>// = Programs I reccomend, but don't use anymore.</sub></sup>
 
 ---
 
@@ -34,8 +34,9 @@
 * [**KeepassXC-Browser**](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   > An extention that communicates with KeepassXC, ignore if you won't be using it.
 
-* [**h264ify**](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+* // [**h264ify**](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
   > "Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.
+  > // Eh, I don't need it.
 
 * [**Simple Translate**](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)
   > A neat addon that can translate for you.
@@ -51,8 +52,9 @@
   
   * Scripts:
     
-    - [**Google Unlocked**](https://github.com/Ibit-to/google-unlocked)
-      > Script that unlocks hidden Google Search results.
+    - // [**Google Unlocked**](https://github.com/Ibit-to/google-unlocked)
+      > Script that unlocks hidden Google Search results.  
+      > // I use [Startpage](https://www.startpage.com/) instead.
 
     - [**Disable YouTube 60FPS (Force 30FPS)**](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
       > Lets you watch higher resolutions at a lower framerate to save some bandwidth.
@@ -67,14 +69,16 @@
 
 ## **Windows (Interface) Modification**
 
-* [**OpenShell**](https://github.com/Open-Shell/Open-Shell-Menu/releases)
-  > Adds a customizable start menu, good if you want a little XP in your 10.
+* // [**OpenShell**](https://github.com/Open-Shell/Open-Shell-Menu/releases)
+  > Adds a customizable start menu, good if you want a little XP in your 10.  
+  > // The Win10 aesthetic has grown on me over time.
 
 * [**WinAero Tweaker**](https://winaero.com/winaero-tweaker/)
   > Customize hidden things, nice QOL stuff right here.
 
-* [**Lively**](https://rocksdanister.github.io/lively/)
-  > Live desktop wallpaper support, free alternative to Wallpaper Engine.
+* // [**Lively**](https://rocksdanister.github.io/lively/)
+  > Live desktop wallpaper support, free alternative to Wallpaper Engine.  
+  > // I still prefer static wallpapers.
 
 * [**PowerToys**](https://github.com/microsoft/PowerToys)
   > Nice productivity apps for windows.
@@ -83,8 +87,9 @@
 
 ## **Desktop Capturing**
 
-* [**Bandicam**](https://www.bandicam.com/)
-  > Just a simple capturer, if you don't like OBS. 
+* // [**Bandicam**](https://www.bandicam.com/)
+  > Just a simple capturer, if you don't like OBS.  
+  > // I like OBS.
   
 * [**OBS Studio**](https://obsproject.com/)
   > The all in one recording and broadcasting software that most people tend to use.
@@ -98,8 +103,9 @@
   * [**MPC-HC**](https://github.com/clsid2/mpc-hc/releases/)
     > A very smooth and simple video player, forked and updated from the original.
   
-  * [**VLC**](https://www.videolan.org/vlc/)
+  * // [**VLC**](https://www.videolan.org/vlc/)
     > The big V, plays most formats and various built-in tools.
+    > // MPC-HC just does what I need it to codec wise, which is fine.
   
   * [**AIMP**](https://www.aimp.ru/?do=download)
     > My favourite music player. LOTS of customization and plugins to play most formats nicely.
@@ -131,8 +137,8 @@
 * [**YouTube-DLG**](https://oleksis.github.io/youtube-dl-gui/)
   > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
   
-* [**qBittorrent Enhanced**](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/tag/release-4.4.0.10)
-  > Forked version of qBittorrent, smooth.
+* [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)
+  > qBittorrent, smooth.
 
 ---
 
@@ -170,8 +176,8 @@
  
 #### Office / Development
     
-  * [**LibreOffice**](https://www.libreoffice.org/download/download/)
-    > Free alternative to Microsoft Office.
+  * [**ONLYOFFICE**](https://www.onlyoffice.com/download-desktop.aspx?from=home-use)
+    > FREE ALTERNATIVE TO MS OFFICE YEAH.
     
   * [**Notepad++**](https://notepad-plus-plus.org/downloads/)
     > Harder, Better, Faster, Stronger notepad.
@@ -187,11 +193,11 @@
   * [**Audacity**](https://www.audacityteam.org/download/)
     > Your good old audio editing software, don't be scared.
     
-  * [**Renoise**](https://www.renoise.com/download)
-    > Powerful music tracker software that I'm too dumb to know how to use.
+  * // [**Renoise**](https://www.renoise.com/download)
+    > // Powerful music tracker software that I'm too dumb to know how to use.
     
-  * [**Milky Tracker**](https://github.com/milkytracker/MilkyTracker/releases)
-    > Same as the above, but _r e t r o . . ._
+  * // [**Milky Tracker**](https://github.com/milkytracker/MilkyTracker/releases)
+    > // Same as the above, but _r e t r o . . ._
     
   * [**Mixxx**](https://mixxx.org/download/)
     > Free DJ software. 'Nuff said.
@@ -206,8 +212,9 @@
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
   
-* [**Whatsapp Desktop**](https://www.whatsapp.com/download)
+* // [**Whatsapp Desktop**](https://www.whatsapp.com/download)
   > Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
+  > // I'd still rather use Whatsapp Web though.
   
 * [**Signal Desktop**](https://signal.org/en/download/)
   > Wish my phone didn't need to be on though...
@@ -278,8 +285,8 @@
 * [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files)
   > Mod manager for most of Bethesda's Gamebryo / Creation Engine games.
 
-* [**Oracle VM VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
-  > My preffered virtual machine software
+* // [**Oracle VM VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
+  > // My preffered virtual machine software would still be [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V) though.
 
 * [**FAT32 Format**](https://www.majorgeeks.com/files/details/fat32format.html)
   > Handy tool for formatting things bigger than 32Gb, mostly used for older hardware like MP3 players.
