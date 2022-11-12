@@ -23,6 +23,9 @@
 * [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/)
   > Similar to CPU-Z, just for GPU stuff instead.
 
+* [**Fan Control**](https://getfancontrol.com/)  
+  > Nice for keeping my GPU cooler instead of using bulky Afterburner.
+
 ---
 
 ## **Firefox Browser (Addon/UserScript)**
@@ -234,6 +237,9 @@
   
 * [**Liberica JDK**](https://bell-sw.com/pages/downloads/)
   > Alternative to Oracles Java runtimes.
+
+* [**Display Driver Uninstaller**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)  
+  > Coz Nvidia sucks.
 
 ---
 
