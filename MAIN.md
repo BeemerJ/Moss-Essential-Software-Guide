@@ -29,7 +29,7 @@
 ---
 
 ## **Firefox Browser (Addon/UserScript)**
-> _I personally use [**LibreWolf**](https://librewolf.net/), but you can use whatever fork you like._
+> _I personally use [**LibreWolf**](https://librewolf.net/), but you can use whatever fork you like. [**Ungoogled Chromium**](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/108.0.5359.72-1) is also a nice Chromium based browser._
 
 * [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   > The only Adblock you'll really ever need. [_Filter Addons_](https://rentry.co/FilterStalker)
@@ -83,8 +83,9 @@
   > Live desktop wallpaper support, free alternative to Wallpaper Engine.  
   > // I still prefer static wallpapers.
 
-* [**PowerToys**](https://github.com/microsoft/PowerToys)
+* // [**PowerToys**](https://github.com/microsoft/PowerToys)
   > Nice productivity apps for windows.
+  > // Sometimes it takes too long to start up.
 
 ---
 
@@ -107,7 +108,7 @@
     > A very smooth and simple video player, forked and updated from the original.
   
   * // [**VLC**](https://www.videolan.org/vlc/)
-    > The big V, plays most formats and various built-in tools.
+    > The BIG V, plays most formats and various built-in tools.
     > // MPC-HC just does what I need it to codec wise, which is fine.
   
   * [**AIMP**](https://www.aimp.ru/?do=download)
@@ -174,13 +175,10 @@
   * [**Paint**.NET](https://www.getpaint.net/download.html)
     > Really great free image editing software with lots of plugins and support. [_Plugin List_](lol)
  
-  * [**MSPaint**](https://github.com/Code-Moss/MossMans-Essential-Software-Guide/blob/Windows/resources/mspaint.exe.lnk?raw=true)
-    > bruh.
- 
 #### Office / Development
     
   * [**ONLYOFFICE**](https://www.onlyoffice.com/download-desktop.aspx?from=home-use)
-    > FREE ALTERNATIVE TO MS OFFICE YEAH.
+    > FREE ALTERNATIVE TO MS OFFICE, YEAH.
     
   * [**Notepad++**](https://notepad-plus-plus.org/downloads/)
     > Harder, Better, Faster, Stronger notepad.
@@ -210,7 +208,7 @@
 ## **Communication**
 
 * [**Discord**](https://discord.com/download)
-  > Goes nicely with a side of [Replugged](https://github.com/replugged-org/replugged) + [Plugins](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md).
+  > Goes nicely with a side of [Replugged](https://github.com/replugged-org/replugged) + [Plugins](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md). [**OpenAsar**](https://openasar.dev/) for performance tweaks.
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
