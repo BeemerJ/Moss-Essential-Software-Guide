@@ -268,6 +268,9 @@
 * [**SpleeterGUI**](https://github.com/thooore/SpleeterGUI/releases)
   > Nifty tool for easy audio seperation and isolation.
 
+* [**gsudo**](https://gerardog.github.io/gsudo/)
+  > Sudo Wudo.
+
 * [**Joyxoff**](https://joyxoff.com/en/)
   > Xbox controller remapper, nice for media controls and mouse movement for games and such.
 
