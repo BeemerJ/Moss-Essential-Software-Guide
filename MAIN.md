@@ -38,7 +38,7 @@
   > An extention that communicates with KeepassXC, ignore if you won't be using it.
 
 * // [**h264ify**](https://addons.mozilla.org/en-US/firefox/addon/h264ify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
-  > "Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.
+  > "Makes YouTube stream H.264 videos instead of VP8/VP9 videos", apparently this helps with performance.  
   > // Eh, I don't need it.
 
 * [**Simple Translate**](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)
@@ -139,7 +139,7 @@
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
 // * [**YouTube-DLG**](https://oleksis.github.io/youtube-dl-gui/)
-  > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
+  > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.  
   > // Kinda unreliable, and no dark mode.
   
 * [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)
@@ -218,7 +218,7 @@
   > Very productive desktop email client.
   
 * // [**Whatsapp Desktop**](https://www.whatsapp.com/download)
-  > Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.
+  > Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.  
   > // I'd still rather use Whatsapp Web though.
   
 * [**Signal Desktop**](https://signal.org/en/download/)
@@ -264,7 +264,7 @@
 ## **Miscelanneous**
 
 * // [**rclone**](https://rclone.org/downloads/)
-  > Useful app for [**mounting your cloud storage as a drive on windows**](https://github.com/Code-Moss/Rclone-Mounting-Template).
+  > Useful app for [**mounting your cloud storage as a drive on windows**](https://github.com/Code-Moss/Rclone-Mounting-Template).  
   > See Below...
 
 * [**Google Drive**](https://www.google.com/drive/download/)  
