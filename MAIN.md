@@ -138,8 +138,9 @@
 * [**Nicotine+**](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
-* [**YouTube-DLG**](https://oleksis.github.io/youtube-dl-gui/)
+// * [**YouTube-DLG**](https://oleksis.github.io/youtube-dl-gui/)
   > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.
+  > // Kinda unreliable, and no dark mode.
   
 * [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)
   > qBittorrent, smooth.
@@ -174,6 +175,9 @@
  
   * [**Paint**.NET](https://www.getpaint.net/download.html)
     > Really great free image editing software with lots of plugins and support. [_Plugin List_](lol)
+
+  * [**Shotcut**](https://shotcut.org/)  
+    > Better than most but don't expect something as hectic as [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)
  
 #### Office / Development
     
@@ -208,7 +212,7 @@
 ## **Communication**
 
 * [**Discord**](https://discord.com/download)
-  > Goes nicely with a side of [Replugged](https://github.com/replugged-org/replugged) + [Plugins](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md). [**OpenAsar**](https://openasar.dev/) for performance tweaks.
+  > Goes nicely with a side of [Replugged - *Indev](https://github.com/replugged-org/replugged) + [Plugins - *Broken](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md). [**OpenAsar**](https://openasar.dev/) for performance tweaks.
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
@@ -259,8 +263,12 @@
 
 ## **Miscelanneous**
 
-* [**rclone**](https://rclone.org/downloads/)
+* // [**rclone**](https://rclone.org/downloads/)
   > Useful app for [mounting your cloud storage as a drive on windows](https://github.com/Code-Moss/Rclone-Mounting-Template).
+  > See Below...
+
+* [**Google Drive**](https://www.google.com/drive/download/)  
+  > Even more useful app for mounting your cloud storage [Google Drive] as a drive on windows.
 
 * [**Soundux**](https://soundux.rocks/download)
   > The nicest soundboard programme I've used.
@@ -305,10 +313,10 @@
 * Disable "Flash of unstyled content" [**Firefox**]  
       - Follow the instructions listed [**here**](https://gist.github.com/Code-Moss/f6f5ad62ed7aea9eda1cf18aa778f51d).
 
-* Mount cloud services as a Drive [**Windows**]  
+* // Mount cloud services as a Drive [**Windows**]  
       - Follow the instructions listed [**here**](https://github.com/Code-Moss/Rclone-Mounting-Template).
 
-* Automatically give SuperF4 UAC privelages on startup [**Windows**]  
+* Automatically give SuperF4 UAC privelages on startup [**Windows**] [**B R O K E N**] 
       - Follow the instructions listed [**here**](https://gist.github.com/Code-Moss/27aacadc6b1dc87f67c1d528e70574dd).  
       - **Make sure SuperF4 is not set to open on Startup.**
 ---
