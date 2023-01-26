@@ -108,7 +108,7 @@
     > A very smooth and simple video player, forked and updated from the original.
   
   * // [**VLC**](https://www.videolan.org/vlc/)
-    > The BIG V, plays most formats and various built-in tools.
+    > The BIG V, plays most formats and various built-in tools.  
     > // MPC-HC just does what I need it to codec wise, which is fine.
   
   * [**AIMP**](https://www.aimp.ru/?do=download)
