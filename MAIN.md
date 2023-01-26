@@ -84,7 +84,7 @@
   > // I still prefer static wallpapers.
 
 * // [**PowerToys**](https://github.com/microsoft/PowerToys)
-  > Nice productivity apps for windows.
+  > Nice productivity apps for windows.  
   > // Sometimes it takes too long to start up.
 
 ---
