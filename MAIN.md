@@ -251,7 +251,7 @@
   > Android Emulator that needs [debloating](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29).
 
 * [**RetroArch**](https://www.retroarch.com/?page=platforms)
-  > Multiplatform Emulator hub, nice and central with easy [achievement](https://retroachievements.org/) support.
+  > Multiplatform Emulator hub, nice and central with easy [**achievement**](https://retroachievements.org/) support.
 
 * [**GBA** - mGBA](https://mgba.io/)
   > It's just good lol.
@@ -264,7 +264,7 @@
 ## **Miscelanneous**
 
 * // [**rclone**](https://rclone.org/downloads/)
-  > Useful app for [mounting your cloud storage as a drive on windows](https://github.com/Code-Moss/Rclone-Mounting-Template).
+  > Useful app for [**mounting your cloud storage as a drive on windows**](https://github.com/Code-Moss/Rclone-Mounting-Template).
   > See Below...
 
 * [**Google Drive**](https://www.google.com/drive/download/)  
