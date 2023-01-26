@@ -138,9 +138,8 @@
 * [**Nicotine+**](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
-// * [**YouTube-DLG**](https://oleksis.github.io/youtube-dl-gui/)
-  > Graphical front-end for YouTube-DL, if you dont wanna use command lines to download YouTube vids.  
-  > // Kinda unreliable, and no dark mode.
+* [**yt-dlp-gui**](https://github.com/dsymbol/yt-dlp-gui)
+  > Graphical front-end for YouTube-DLP, if you dont wanna use command lines to download YouTube vids. Very bright though 😎.
   
 * [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)
   > qBittorrent, smooth.
