@@ -85,7 +85,7 @@
 
 * // [**PowerToys**](https://github.com/microsoft/PowerToys)
   > Nice productivity apps for windows.  
-  > // Sometimes it takes too long to start up.
+  > // Sometimes it takes too long to start up. On HDDs it sometimes doesn't at all.
 
 ---
 
@@ -96,7 +96,7 @@
   > // I like OBS.
   
 * [**OBS Studio**](https://obsproject.com/)
-  > The all in one recording and broadcasting software that most people tend to use.
+  > The all in one recording and broadcasting software that most people tend to use. Make sure to get [_HEVC Codecs for Windows_](https://codecsdownload.com/download_5f2717ba55e2de5976138b64de8f6b26/msx/Microsoft.HEVCVideoExtension_2.0.60531.0_neutral___8wekyb3d8bbwe.AppxBundle).
  
 --- 
 
@@ -132,17 +132,18 @@
 
 ## **Download**
 
-* [**JDownloader 2**](https://jdownloader.org/jdownloader2)
+* // [**JDownloader 2**](https://jdownloader.org/jdownloader2)
   > Your Good Old Download Manager. (Still not as nice as IDM tho.) [_Dark Theme_](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/) / [_Debloat_](https://rentry.org/jdownloader2)
+  > // I just don't use it, unless I reaaaally need to.
   
 * [**Nicotine+**](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
-* [**yt-dlp-gui**](https://github.com/dsymbol/yt-dlp-gui)
+* [**yt-dlg**](https://github.com/oleksis/youtube-dl-gui/releases/)
   > Graphical front-end for YouTube-DLP, if you dont wanna use command lines to download YouTube vids. Very bright though 😎.
   
 * [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)
-  > qBittorrent, smooth.
+  > qBittorrent, smoove.
 
 ---
 
@@ -176,7 +177,7 @@
     > Really great free image editing software with lots of plugins and support. [_Plugin List_](lol)
 
   * [**Shotcut**](https://shotcut.org/)  
-    > Better than most but don't expect something as hectic as [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)
+    > Better than most but a great alternative for a alot more in-depth editing is [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)
  
 #### Office / Development
     
@@ -211,7 +212,7 @@
 ## **Communication**
 
 * [**Discord**](https://discord.com/download)
-  > Goes nicely with a side of [Replugged - *Indev](https://github.com/replugged-org/replugged) + [Plugins - *Broken](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md). [**OpenAsar**](https://openasar.dev/) for performance tweaks.
+  > Goes nicely with a side of [**Replugged** (Beta)](https://github.com/replugged-org/replugged) + [**Plugins** (Broken)](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md). Use [**OpenAsar**](https://openasar.dev/) for performance tweaks.
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
@@ -266,8 +267,9 @@
   > Useful app for [**mounting your cloud storage as a drive on windows**](https://github.com/Code-Moss/Rclone-Mounting-Template).  
   > // See Below...
 
-* [**Google Drive**](https://www.google.com/drive/download/)  
+* // [**Google Drive**](https://www.google.com/drive/download/)  
   > Even more useful app for mounting your cloud storage [Google Drive] as a drive on windows.
+  > Recent update installs Google Docs with no way of removing, not cool.
 
 * [**Soundux**](https://soundux.rocks/download)
   > The nicest soundboard programme I've used.
