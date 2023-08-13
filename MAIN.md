@@ -85,7 +85,6 @@
 
 * // [**PowerToys**](https://github.com/microsoft/PowerToys)
   > Nice productivity apps for windows.  
-  > // Sometimes it takes too long to start up. On HDDs it sometimes doesn't at all.
 
 ---
 
@@ -177,7 +176,7 @@
     > Really great free image editing software with lots of plugins and support. [_Plugin List_](lol)
 
   * [**Shotcut**](https://shotcut.org/)  
-    > Better than most but a great alternative for a alot more in-depth editing is [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)
+    > Better than most simple editors though a great alternative for a alot more in-depth editing is [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)
  
 #### Office / Development
     
@@ -212,18 +211,11 @@
 ## **Communication**
 
 * [**Discord**](https://discord.com/download)
-  > Goes nicely with a side of [**Replugged** (Beta)](https://github.com/replugged-org/replugged) + [**Plugins** (Broken)](https://gist.github.com/Code-Moss/ae274550af44814ce9501e6cd3989180#file-replugged_plugin-md). Use [**OpenAsar**](https://openasar.dev/) for performance tweaks.
+  > Goes nicely with a side of [**Replugged** (Beta)](https://github.com/replugged-org/replugged). Use [**OpenAsar**](https://openasar.dev/) for performance tweaks.
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
   
-* // [**Whatsapp Desktop**](https://www.whatsapp.com/download)
-  > Meta/Facebook aside, with the beta mode activated, you don't need your mobile to be on all the time to use this.  
-  > // I'd still rather use Whatsapp Web though.
-  
-* [**Signal Desktop**](https://signal.org/en/download/)
-  > Wish my phone didn't need to be on though...
-
 ---
 
 ## **Driver / Runtime**
@@ -252,9 +244,6 @@
 
 * [**RetroArch**](https://www.retroarch.com/?page=platforms)
   > Multiplatform Emulator hub, nice and central with easy [**achievement**](https://retroachievements.org/) support.
-
-* [**GBA** - mGBA](https://mgba.io/)
-  > It's just good lol.
 
 * [**DOS** - DOSBox-X](https://dosbox-x.com/)
   > Easier to run DOS files through the context menu with this app.
@@ -288,6 +277,9 @@
 
 * [**WizFile**](https://antibody-software.com/wizfile/download)
   > The FASTEST File Finder... Analyzer.
+
+* [**Windows Terminal**](https://github.com/microsoft/terminal)  
+  > Oh my god it's so good if you use CMD / Powershell alot, you can even set it up with Autohotkey to open with a shortcut.
 
 * [**USB Device Tree Viewer**](https://www.uwe-sieber.de/usbtreeview_e.html#download)
   > Tool for diagnosing usb ports.
