@@ -23,7 +23,7 @@
   - [**Infinity**](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)
     > Reddit without the Reddit. No account needed.
 
-  - //[**FluffyChat**](https://f-droid.org/packages/chat.fluffy.fluffychat/)
+  - [**//FluffyChat**](https://f-droid.org/packages/chat.fluffy.fluffychat/)
     > Better than [_SchildiChat_](https://f-droid.org/packages/de.spiritcroc.riotx/).
     // Fediverse sucks tbh.
 
@@ -35,17 +35,17 @@
   - [**VLC**](https://f-droid.org/en/packages/org.videolan.vlc/)
     > Nice features, and plays about everything you throw at it.
 
-  - [**ReVanced Magisk Module**]
+  - [**ReVanced Magisk Module**](https://github.com/j-hc/revanced-magisk-module)
     > RIP non-rooted users...  Makes YouTube good 👍
 
-  - //[**AntennaPod**](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+  - [**//AntennaPod**](https://f-droid.org/en/packages/de.danoeh.antennapod/)
     > "Podcast manager and player".
     > // YouTube is fine.
 
   - [**Tachiyomi**](https://tachiyomi.org/download/)
     >Nice comic / manga reader + downloader.
 
-  - //[**Seeker**](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
+  - [//**Seeker**](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
     > "An unofficial soulseek client".
 
   - [**CloudStream-3**](https://github.com/recloudstream/cloudstream)
@@ -53,7 +53,7 @@
 
 ## Security
 
-  - //[**AFWall**+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
+  - [//**AFWall**+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
     > Android Firewall App.
     > // Just dont install shady apps.
   
@@ -87,7 +87,7 @@
   - [**Bromite**](https://www.bromite.org/) [Browser]
     > Don't forget, this has UserScript support.
 
-  - //[**ccgt**](https://f-droid.org/en/packages/de.fff.ccgt/) [Tuner]
+  - [//**ccgt**](https://f-droid.org/en/packages/de.fff.ccgt/) [Tuner]
     > Tuner, straight and simple.
     // I got an IRL tuner.
 
@@ -103,7 +103,7 @@
   - [**Seal**](https://github.com/razar-dev/PowerTube) [Downloader]
     > youtube-dlp Client for Android, very clean UI.
 
-  - //[**QR Scanner**](https://f-droid.org/en/packages/com.secuso.privacyFriendlyCodeScanner/) [QR Code Scanner]
+  - [//**QR Scanner**](https://f-droid.org/en/packages/com.secuso.privacyFriendlyCodeScanner/) [QR Code Scanner]
     > Put the Scanner on the QR.
     // My default camera comes included with one.
       
