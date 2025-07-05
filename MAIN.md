@@ -11,11 +11,13 @@
 * [**HWiNFO**](https://www.hwinfo.com/download/)
   > Basically the WHOLE diagnostic/stat get-up. Pairs well with RTSS.
 
-* [**RTSS**](https://www.guru3d.com/files/index.html)
-  > Tool for showing live stats while in-game. [_Tutorial_](https://mybyways.com/blog/cpu-and-gpu-monitoring-overlay-for-gaming)
+* // [**RTSS**](https://www.guru3d.com/files/index.html)
+  > Tool for showing live stats while in-game. [_Tutorial_](https://mybyways.com/blog/cpu-and-gpu-monitoring-overlay-for-gaming)  
+  > // Tend to just use the software my GPU comes with.
 
-* [**XMeters**](https://entropy6.com/xmeters/download/)
-  > Nice for easily checking PC stats like CPU usage on the taskbar.
+* // [**XMeters**](https://entropy6.com/xmeters/download/)
+  > Nice for easily checking PC stats like CPU usage on the taskbar.  
+  > // I could live without it on Windows 11.
 
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html)
   > Utility for CPU info and many other useful stuff.
@@ -23,13 +25,17 @@
 * [**GPU-Z**](https://www.techpowerup.com/download/techpowerup-gpu-z/)
   > Similar to CPU-Z, just for GPU stuff instead.
 
-* [**Fan Control**](https://getfancontrol.com/)  
-  > Nice for keeping my GPU cooler instead of using bulky Afterburner.
+* // [**Fan Control**](https://getfancontrol.com/)  
+  > Nice for keeping my GPU cooler instead of using bulky Afterburner.  
+  > // Usually let my GPU just sort it out with firmware.
+
+* [**MSI Afterburner**](https://www.msi.com/Landing/afterburner/graphics-cards)  
+  > Still pretty good though.
 
 ---
 
 ## **Firefox Browser (Addon/UserScript)**
-> _I personally use [**LibreWolf**](https://librewolf.net/), but you can use whatever fork you like. [**Ungoogled Chromium**](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/108.0.5359.72-1) is also a nice Chromium based browser._
+> _I personally use [**Waterfox**](https://www.waterfox.net/), but you can use whatever fork you like. [**Ungoogled Chromium**](https://ungoogled-software.github.io/ungoogled-chromium-binaries/releases/windows/64bit/108.0.5359.72-1) is also a nice Chromium based browser._
 
 * [**uBlock Origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   > The only Adblock you'll really ever need. [_Filter Addons_](https://rentry.co/FilterStalker)
@@ -42,7 +48,8 @@
   > // Eh, I don't need it.
 
 * [**Simple Translate**](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/)
-  > A neat addon that can translate for you.
+  > A neat addon that can translate for you.  
+  > // Not needed most times for Waterfox.
 
 * [**Search by Image**](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
   > Pretty self-explanatory.
@@ -59,14 +66,16 @@
       > Script that unlocks hidden Google Search results.  
       > // I use [Startpage](https://www.startpage.com/) instead.
 
-    - [**Disable YouTube 60FPS (Force 30FPS)**](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
-      > Lets you watch higher resolutions at a lower framerate to save some bandwidth.
+    - // [**Disable YouTube 60FPS (Force 30FPS)**](https://greasyfork.org/scripts/23329-disable-youtube-60-fps-force-30-fps)
+      > Lets you watch higher resolutions at a lower framerate to save some bandwidth.  
+      > // PC STRONG...
        
     - [**Return YouTube Dislike**](https://www.returnyoutubedislike.com/install)
       > Brings back the dislike button, RIP.
 
-    - [**Instagram Download Button**](https://github.com/y252328/Instagram_Download_Button)
-      > All in the title.
+    - // [**Instagram Download Button**](https://github.com/y252328/Instagram_Download_Button)
+      > All in the title.  
+      > // Doesn't work?
 
 ---
 
@@ -75,16 +84,18 @@
 * // [**OpenShell**](https://github.com/Open-Shell/Open-Shell-Menu/releases)
   > Adds a customizable start menu, good if you want a little XP in your 10.  
   > // The Win10 aesthetic has grown on me over time.
+  > // Update, the Win11 Taskbar fucking sucks lmao.
 
-* [**WinAero Tweaker**](https://winaero.com/winaero-tweaker/)
+* // [**WinAero Tweaker**](https://winaero.com/winaero-tweaker/)
   > Customize hidden things, nice QOL stuff right here.
+  > // I'm lazy and don't see a specific reason right now on Windows 11...
 
 * // [**Lively**](https://rocksdanister.github.io/lively/)
   > Live desktop wallpaper support, free alternative to Wallpaper Engine.  
   > // I still prefer static wallpapers.
 
-* // [**PowerToys**](https://github.com/microsoft/PowerToys)
-  > Nice productivity apps for windows.  
+* [**PowerToys**](https://github.com/microsoft/PowerToys)
+  > Nice productivity apps for windows.
 
 ---
 
@@ -113,16 +124,21 @@
   * [**AIMP**](https://www.aimp.ru/?do=download)
     > My favourite music player. LOTS of customization and plugins to play most formats nicely.
   
-  * [**XnViewMP**](https://www.xnview.com/en/xnviewmp/)
+  * // [**XnViewMP**](https://www.xnview.com/en/xnviewmp/)
     > Neat image viewing software, highly customizable.
+    > // Bit too much
+
+  * [**ImageGlass**](https://www.cdisplayex.com/downloads)
+    > Your average run-of-the-mill comic book reader (Free Version has annoying update popups).
   
   * [**CDisplayEx**](https://www.cdisplayex.com/downloads)
     > Your average run-of-the-mill comic book reader.
 
 #### Streamers
   
-  * [**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop/releases)
-    > A BitTorrent client that streams movies from your favourite torrent sites.
+  * // [**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop/releases)
+    > A BitTorrent client that streams movies from your favourite torrent sites.  
+    > // https://pstream.org/ 😎
   
   * [**YouTube Music**](https://github.com/th-ch/youtube-music)
     > Regular YTM client with nice plugins.
@@ -132,17 +148,22 @@
 ## **Download**
 
 * // [**JDownloader 2**](https://jdownloader.org/jdownloader2)
-  > Your Good Old Download Manager. (Still not as nice as IDM tho.) [_Dark Theme_](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/) / [_Debloat_](https://rentry.org/jdownloader2)
+  > Your Good Old Download Manager. (Still not as nice as IDM tho.) [_Dark Theme_](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/) / [_Debloat_](https://rentry.org/jdownloader2)  
   > // I just don't use it, unless I reaaaally need to.
+
+
+* // [**Motrix**](https://motrix.app/)
+  > Pretty good and pretty download manager, only rarely use it but wouldn't wanna be without it.
   
 * [**Nicotine+**](https://nicotine-plus.org/)
   > Peer-2-Peer filesharing client using Soulseek, mostly used for audio.
   
-* [**yt-dlg**](https://github.com/oleksis/youtube-dl-gui/releases/)
-  > Graphical front-end for YouTube-DLP, if you dont wanna use command lines to download YouTube vids. Very bright though 😎.
+* // [**yt-dlg**](https://github.com/oleksis/youtube-dl-gui/releases/)
+  > Graphical front-end for YouTube-DLP, if you dont wanna use command lines to download YouTube vids. Very bright though 😎.  
+  > // https://cobalt.tools/ ....
   
-* [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)
-  > qBittorrent, smoove.
+* [**qBittorrent**](https://github.com/qbittorrent/qBittorrent)  
+  > qBittorrent, smoove. [_Theme_](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
 
 ---
 
@@ -154,8 +175,9 @@
 * [**VirusTotal**](https://www.virustotal.com/gui/home/upload)
   > "Analyze suspicious files, domains, IPs and URLs to detect malware"
  
-* [**Tron**](https://old.reddit.com/r/TronScript/)
-  > "A glorified collection of batch files that automate the process of cleaning up Windows systems".
+* // [**Tron**](https://old.reddit.com/r/TronScript/)
+  > "A glorified collection of batch files that automate the process of cleaning up Windows systems".  
+  > // Nice tool for serious issues, though most times I'm not that serious :P
 
 * [**Have I Been Pwned**](https://haveibeenpwned.com/)
   > Check if your email or phone is in a data breach.
@@ -175,19 +197,22 @@
   * [**Paint**.NET](https://www.getpaint.net/download.html)
     > Really great free image editing software with lots of plugins and support. [_Plugin List_](lol)
 
-  * [**Shotcut**](https://shotcut.org/)  
-    > Better than most simple editors though a great alternative for a alot more in-depth editing is [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)
+  * // [**Shotcut**](https://shotcut.org/)  
+    > Better than most simple editors though a great alternative for a alot more in-depth editing is [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)  
+    > // Bit to linuxy ugly to me...
  
 #### Office / Development
     
   * [**ONLYOFFICE**](https://www.onlyoffice.com/download-desktop.aspx?from=home-use)
-    > FREE ALTERNATIVE TO MS OFFICE, YEAH.
+    > FREE MS OFFICE, YEAH.
     
-  * [**Notepad++**](https://notepad-plus-plus.org/downloads/)
+  * // [**Notepad++**](https://notepad-plus-plus.org/downloads/)
     > Harder, Better, Faster, Stronger notepad.
+    > // Windows 11 Notepad is pretty dope, if I want code stuff I just use [Sublime Text](https://www.sublimetext.com/)
 
-  * [**Joplin**](https://joplinapp.org/)
-    > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.
+  * // [**Joplin**](https://joplinapp.org/)
+    > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.  
+    > // I'm too inconsistent bweh...
 
   * [**HxD**](https://mh-nexus.de/en/hxd/)
     > Your friendly neighbourhood Hex Editor.
@@ -200,18 +225,18 @@
   * // [**Renoise**](https://www.renoise.com/download)
     > // Powerful music tracker software that I'm too dumb to know how to use.
     
-  * // [**Milky Tracker**](https://github.com/milkytracker/MilkyTracker/releases)
-    > // Same as the above, but _r e t r o . . ._
+  * [**Milky Tracker**](https://github.com/milkytracker/MilkyTracker/releases)
+    > Same as the above, but _r e t r o . . ._
     
   * [**Mixxx**](https://mixxx.org/download/)
-    > Free DJ software. 'Nuff said.
+    > Free DJ software. 'Nuff said, fucking buggy as hell so don't use live lmao.
 
 ---
 
 ## **Communication**
 
 * [**Discord**](https://discord.com/download)
-  > Goes nicely with a side of [**Replugged** (Beta)](https://github.com/replugged-org/replugged). Use [**OpenAsar**](https://openasar.dev/) for performance tweaks.
+  > Goes nicely with a side of [Vencord](https://vencord.dev/).
   
 * [**Thunderbird**](https://www.thunderbird.net/en-US/)
   > Very productive desktop email client.
@@ -229,11 +254,14 @@
 * [**NVCleanInstall**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
   > Removes unnecessary bloat from Nvidia Drivers.
   
-* [**Liberica JDK**](https://bell-sw.com/pages/downloads/)
+* [**Temurin**](https://adoptium.net/temurin/releases)
   > Alternative to Oracles Java runtimes.
 
 * [**Display Driver Uninstaller**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)  
   > Coz Nvidia sucks.
+
+* [**Windows Uninstaller Troubleshooter**](https://support.microsoft.com/en-gb/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d)
+  > For the dumb times Windows does its Windows shenanigans.
 
 ---
 
