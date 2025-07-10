@@ -282,7 +282,7 @@
   > Android Emulator that needs [debloating](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29).
 
 * // [**RetroArch**](https://www.retroarch.com/?page=platforms)
-  > Multiplatform Emulator hub, nice and central with easy [**achievement**](https://retroachievements.org/) support.
+  > Multiplatform Emulator hub, nice and central with easy [**achievement**](https://retroachievements.org/) support.  
   > // Kind of prefer standalone emulators these days.
 
 * [**DOS** - DOSBox Staging](https://www.dosbox-staging.org/)
