@@ -225,6 +225,9 @@
     > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.  
     > // I'm too inconsistent bweh...
 
+  *  [**PDFgear**](https://www.pdfgear.com/)
+    > What if I don't wanna use my browser for PDFS???
+
   * [**HxD**](https://mh-nexus.de/en/hxd/)
     > Your friendly neighbourhood Hex Editor.
 
