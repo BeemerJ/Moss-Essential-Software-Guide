@@ -51,8 +51,9 @@
   > A neat addon that can translate for you.  
   > // Not needed most times for Waterfox.
 
-* [**Search by Image**](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
+* // [**Search by Image**](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)
   > Pretty self-explanatory.
+  > // Waterfox comes with it sorta implemented.
 
 * [**Dark Reader**](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   > Converts sites which don't have a dark mode to a nicer shade of black.
@@ -97,6 +98,9 @@
 * [**PowerToys**](https://github.com/microsoft/PowerToys)
   > Nice productivity apps for windows.
 
+* [**StarAllBack**](https://www.startallback.com/)
+  > Fuck Windows 11 lol...
+
 ---
 
 ## **Desktop Capturing**
@@ -116,6 +120,10 @@
   
   * [**MPC-HC**](https://github.com/clsid2/mpc-hc/releases/)
     > A very smooth and simple video player, forked and updated from the original.
+
+  * // [**Screenbox**](https://github.com/huynhsontung/Screenbox)
+    > Pretty VLC fork. Use one or the other.
+    > // I dunno might use this next over MPC-HC...
   
   * // [**VLC**](https://www.videolan.org/vlc/)
     > The BIG V, plays most formats and various built-in tools.  
@@ -195,7 +203,7 @@
     > Cute sprite editing software.
  
   * [**Paint**.NET](https://www.getpaint.net/download.html)
-    > Really great free image editing software with lots of plugins and support. [_Plugin List_](lol)
+    > Really great free image editing software with lots of plugins and support. [_Plugin List_](https://gist.github.com/BeemerJ/50372aab472f8664bfa03a3ad00086d5)
 
   * // [**Shotcut**](https://shotcut.org/)  
     > Better than most simple editors though a great alternative for a alot more in-depth editing is [**Davinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve)  
