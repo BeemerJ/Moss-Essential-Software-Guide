@@ -218,6 +218,9 @@
     > Harder, Better, Faster, Stronger notepad.
     > // Windows 11 Notepad is pretty dope, if I want code stuff I just use [Sublime Text](https://www.sublimetext.com/)
 
+  * [**Obsidian**](https://obsidian.md/)
+    > God tier document organizer app writing thingy I don't even know vro...
+
   * // [**Joplin**](https://joplinapp.org/)
     > Nice notes app, nice productivity and can be synced between different devices with a Dropbox Account.  
     > // I'm too inconsistent bweh...
@@ -278,12 +281,12 @@
 * [**Android** - NoxPlayer](https://www.bignox.com/)
   > Android Emulator that needs [debloating](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29).
 
-* [**RetroArch**](https://www.retroarch.com/?page=platforms)
+* // [**RetroArch**](https://www.retroarch.com/?page=platforms)
   > Multiplatform Emulator hub, nice and central with easy [**achievement**](https://retroachievements.org/) support.
+  > // Kind of prefer standalone emulators these days.
 
-* [**DOS** - DOSBox-X](https://dosbox-x.com/)
-  > Easier to run DOS files through the context menu with this app.
-
+* [**DOS** - DOSBox Staging](https://www.dosbox-staging.org/)
+  > Everything is mostly neatly packaged.
 ---
 
 ## **Miscelanneous**
@@ -293,14 +296,20 @@
   > // See Below...
 
 * // [**Google Drive**](https://www.google.com/drive/download/)  
-  > Even more useful app for mounting your cloud storage [Google Drive] as a drive on windows.
-  > Recent update installs Google Docs with no way of removing, not cool.
+  > Even more useful app for mounting your cloud storage [Google Drive] as a drive on windows.  
+  > // Recent update installs Google Docs with no way of removing, not cool.
 
 * [**Soundux**](https://soundux.rocks/download)
   > The nicest soundboard programme I've used.
 
+* [**LocalSend**](https://localsend.org/)
+  > Pretty simple file transfer over FTP I believe.
+
 * [**SpleeterGUI**](https://github.com/thooore/SpleeterGUI/releases)
   > Nifty tool for easy audio seperation and isolation.
+
+* [**Keyviz**](https://mularahul.github.io/keyviz/)
+  > Helps me show my dumbass friends how to do shit easy I think?
 
 * [**gsudo**](https://gerardog.github.io/gsudo/)
   > Sudo Wudo.
