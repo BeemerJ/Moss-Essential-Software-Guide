@@ -110,7 +110,8 @@
   > // I like OBS.
   
 * [**OBS Studio**](https://obsproject.com/)
-  > The all in one recording and broadcasting software that most people tend to use. Make sure to get [_HEVC Codecs for Windows_](https://codecsdownload.com/download_5f2717ba55e2de5976138b64de8f6b26/msx/Microsoft.HEVCVideoExtension_2.0.60531.0_neutral___8wekyb3d8bbwe.AppxBundle).
+  > The all in one recording and broadcasting software that most people tend to use. Make sure to get [_HEVC Codecs for Windows_](https://codecsdownload.com/download_5f2717ba55e2de5976138b64de8f6b26/msx/Microsoft.HEVCVideoExtension_2.0.60531.0_neutral___8wekyb3d8bbwe.AppxBundle).  
+  > [_Plugins_...](https://gist.github.com/BeemerJ/3350298cae7aa72a4e418e4b589072f9)
  
 --- 
 
